@@ -69,6 +69,14 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复 [[back](#catalogue)]
 
+**Spatially-Adaptive Image Restoration using Distortion-Guided Networks**
+- Paper：https://arxiv.org/abs/2108.08617
+- Code: https://github.com/human-analysis/spatially-adaptive-image-restoration
+
+**Dynamic Attentive Graph Learning for Image Restoration**
+- Paper：https://arxiv.org/abs/2109.06620
+- Code：https://github.com/jianzhangcs/DAGL
+
 
 
 **Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration**
@@ -103,6 +111,14 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="ImageDenoising"></a>
 ## Image Denoising
 
+**C2N: Practical Generative Noise Modeling for Real-World Denoising**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_C2N_Practical_Generative_Noise_Modeling_for_Real-World_Denoising_ICCV_2021_paper.pdf
+
+**Self-Supervised Image Prior Learning With GMM From a Single Noisy Image**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Self-Supervised_Image_Prior_Learning_With_GMM_From_a_Single_Noisy_ICCV_2021_paper.html
+- Code：https://github.com/HUST-Tan/SS-GMM
+
+
 <a name="VideoDenoising"></a>
 ## Video Denoising
 
@@ -111,6 +127,7 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 # Deblurring - 去模糊 [[back](#catalogue)]
 <a name="ImageDeblurring"></a>
 ## Image Deblurring
+
 
 <a name="VideoDeblurring"></a>
 ## Video Deblurring
