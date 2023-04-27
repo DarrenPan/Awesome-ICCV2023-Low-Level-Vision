@@ -77,19 +77,19 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper：https://arxiv.org/abs/2109.06620
 - Code：https://github.com/jianzhangcs/DAGL
 
+**Searching for Controllable Image Restoration Networks**
+- Paper: https://arxiv.org/abs/2012.11225
 
+**Self-Supervised Cryo-Electron Tomography Volumetric Image Restoration From Single Noisy Volume With Sparsity Constraint**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Yang_Self-Supervised_Cryo-Electron_Tomography_Volumetric_Image_Restoration_From_Single_Noisy_Volume_ICCV_2021_paper.html
+- Code: https://github.com/icthrm/SC-Net
+- Tags: Self-Supervised, Cryo-Electron Tomography Volumetric
 
-**Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration**
-- Paper: https://aaai-2022.virtualchair.net/poster_aaai4252
-- Code: https://github.com/wyhuai/Panini-Net
-- Tags: Face Restoration
+## Burst Restoration
 
-<a name="BurstRestoration"></a>
-## Burst Restoration 
-
-<a name="VideoRestoration"></a>
-## Video Restoration
-
+**Deep Reparametrization of Multi-Frame Super-Resolution and Denoising **
+- Paper: https://arxiv.org/abs/2108.08286
+- Code: https://github.com/goutamgmb/deep-rep
 
 <a name="SuperResolution"></a>
 # Super Resolution - 超分辨率 [[back](#catalogue)]
@@ -111,17 +111,48 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="ImageDenoising"></a>
 ## Image Denoising
 
+**Rethinking Deep Image Prior for Denoising**
+- Paper: https://arxiv.org/abs/2108.12841
+- Code: https://github.com/gistvision/DIP-denosing
+
+**Cross-Patch Graph Convolutional Network for Image Denoising **
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Li_Cross-Patch_Graph_Convolutional_Network_for_Image_Denoising_ICCV_2021_paper.html
+- Tags: GCN
+
 **C2N: Practical Generative Noise Modeling for Real-World Denoising**
-- Paper：https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_C2N_Practical_Generative_Noise_Modeling_for_Real-World_Denoising_ICCV_2021_paper.pdf
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Jang_C2N_Practical_Generative_Noise_Modeling_for_Real-World_Denoising_ICCV_2021_paper.html
+- Code: https://github.com/onwn/c2n
+- Tags: Noise Modeling
+
+**Rethinking Noise Synthesis and Modeling in Raw Denoising**
+- Paper: https://arxiv.org/abs/2110.04756
+- Code: https://github.com/zhangyi-3/noise-synthesis
+- Tags: Noise Modeling
 
 **Self-Supervised Image Prior Learning With GMM From a Single Noisy Image**
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Self-Supervised_Image_Prior_Learning_With_GMM_From_a_Single_Noisy_ICCV_2021_paper.html
 - Code：https://github.com/HUST-Tan/SS-GMM
 
+**Hyperspectral Image Denoising With Realistic Data**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Hyperspectral_Image_Denoising_With_Realistic_Data_ICCV_2021_paper.html
+- Code: https://github.com/ColinTaoZhang/HSIDwRD
+- Tags: Hyperspectral Image
+
+**End-to-End Unsupervised Document Image Blind Denoising **
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Gangeh_End-to-End_Unsupervised_Document_Image_Blind_Denoising_ICCV_2021_paper.html
+- Tags: Unsupervised, Document Denoising
 
 <a name="VideoDenoising"></a>
 ## Video Denoising
 
+**Patch Craft: Video Denoising by Deep Modeling and Patch Matching**
+- Paper: https://arxiv.org/abs/2103.13767
+- Code: https://github.com/grishavak/PaCNet-denoiser 
+
+**Unsupervised Deep Video Denoising**
+- Paper: https://arxiv.org/abs/2011.15045
+- Code: https://github.com/sreyas-mohan/udvd
+- Tags: Unsupervised
 
 <a name="Deblurring"></a>
 # Deblurring - 去模糊 [[back](#catalogue)]
