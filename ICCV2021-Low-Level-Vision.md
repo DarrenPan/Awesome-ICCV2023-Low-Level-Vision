@@ -87,7 +87,7 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 
 ## Burst Restoration
 
-**Deep Reparametrization of Multi-Frame Super-Resolution and Denoising **
+**Deep Reparametrization of Multi-Frame Super-Resolution and Denoising**
 - Paper: https://arxiv.org/abs/2108.08286
 - Code: https://github.com/goutamgmb/deep-rep
 
@@ -115,7 +115,7 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2108.12841
 - Code: https://github.com/gistvision/DIP-denosing
 
-**Cross-Patch Graph Convolutional Network for Image Denoising **
+**Cross-Patch Graph Convolutional Network for Image Denoising**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Li_Cross-Patch_Graph_Convolutional_Network_for_Image_Denoising_ICCV_2021_paper.html
 - Tags: GCN
 
@@ -138,7 +138,7 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Code: https://github.com/ColinTaoZhang/HSIDwRD
 - Tags: Hyperspectral Image
 
-**End-to-End Unsupervised Document Image Blind Denoising **
+**End-to-End Unsupervised Document Image Blind Denoising**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Gangeh_End-to-End_Unsupervised_Document_Image_Blind_Denoising_ICCV_2021_paper.html
 - Tags: Unsupervised, Document Denoising
 
