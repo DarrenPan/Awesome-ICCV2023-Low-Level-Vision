@@ -115,6 +115,11 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2108.12841
 - Code: https://github.com/gistvision/DIP-denosing
 
+**Self-Supervised Image Prior Learning With GMM From a Single Noisy Image**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Self-Supervised_Image_Prior_Learning_With_GMM_From_a_Single_Noisy_ICCV_2021_paper.html
+- Code：https://github.com/HUST-Tan/SS-GMM
+- Tags: self-supervised, Gaussian Mixture Mode
+
 **Cross-Patch Graph Convolutional Network for Image Denoising**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Li_Cross-Patch_Graph_Convolutional_Network_for_Image_Denoising_ICCV_2021_paper.html
 - Tags: GCN
@@ -128,10 +133,6 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2110.04756
 - Code: https://github.com/zhangyi-3/noise-synthesis
 - Tags: Noise Modeling
-
-**Self-Supervised Image Prior Learning With GMM From a Single Noisy Image**
-- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Self-Supervised_Image_Prior_Learning_With_GMM_From_a_Single_Noisy_ICCV_2021_paper.html
-- Code：https://github.com/HUST-Tan/SS-GMM
 
 **Hyperspectral Image Denoising With Realistic Data**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Hyperspectral_Image_Denoising_With_Realistic_Data_ICCV_2021_paper.html
@@ -159,10 +160,38 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="ImageDeblurring"></a>
 ## Image Deblurring
 
+**Rethinking Coarse-to-Fine Approach in Single Image Deblurring**
+- Paper：https://arxiv.org/abs/2108.05054
+- Code：https://github.com/chosj95/MIMO-UNet
+
+**Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions**
+- Paper：https://arxiv.org/abs/2108.09108
+- Code: https://github.com/HyeongseokSon1/KPAC
+
+**Defocus Map Estimation and Deblurring From a Single Dual-Pixel Image**
+- Paper: https://arxiv.org/abs/2110.05655
+- Code: https://github.com/cmu-ci-lab/dual_pixel_defocus_estimation_deblurring
+
+**Pyramid Architecture Search for Real-Time Image Deblurring **
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Hu_Pyramid_Architecture_Search_for_Real-Time_Image_Deblurring_ICCV_2021_paper.html
+
+**Perceptual Variousness Motion Deblurring With Light Global Context Refinement **
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Li_Perceptual_Variousness_Motion_Deblurring_With_Light_Global_Context_Refinement_ICCV_2021_paper.html
+
+**Motion Deblurring with Real Events**
+- Paper: https://arxiv.org/abs/2109.13695
+- Code: https://github.com/xufangchn/Motion-Deblurring-with-Real-Events
 
 <a name="VideoDeblurring"></a>
 ## Video Deblurring
 
+**Bringing Events into Video Deblurring with Non consecutively Blurry Frames**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Shang_Bringing_Events_Into_Video_Deblurring_With_Non-Consecutively_Blurry_Frames_ICCV_2021_paper.html
+- Code：https://github.com/shangwei5/D2Net
+
+**Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring **
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.html
+- Code: https://github.com/dseny/UHDVD
 
 <a name="Deraining"></a>
 # Deraining - 去雨 [[back](#catalogue)]
