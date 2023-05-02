@@ -48,8 +48,6 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 
 - [Image Matting](#Matting)
 
-- [Shadow Removal](#ShadowRemoval)
-
 - [Image Stitching](#Stitching)
 
 - [Image Compression](#ImageCompression)
@@ -84,6 +82,55 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Yang_Self-Supervised_Cryo-Electron_Tomography_Volumetric_Image_Restoration_From_Single_Noisy_Volume_ICCV_2021_paper.html
 - Code: https://github.com/icthrm/SC-Net
 - Tags: Self-Supervised, Cryo-Electron Tomography Volumetric
+
+
+## Something Romoval 
+
+**Let's See Clearly: Contaminant Artifact Removal for Moving Cameras **
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Li_Lets_See_Clearly_Contaminant_Artifact_Removal_for_Moving_Cameras_ICCV_2021_paper.html
+
+**Light Source Guided Single-Image Flare Removal from Unpaired Data**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Qiao_Light_Source_Guided_Single-Image_Flare_Removal_From_Unpaired_Data_ICCV_2021_paper.html
+- Tags: Flare Removal
+
+**How to Train Neural Networks for Flare Removal**
+- Paper: https://arxiv.org/abs/2011.12485
+- Code: https://github.com/google-research/google-research/tree/master/flare_removal
+- Tags: Flare Removal
+
+**Location-Aware Single Image Reflection Removal**
+- Paper: https://arxiv.org/abs/2012.07131
+- Code: https://github.com/zdlarr/Location-aware-SIRR
+- Tags: Reflection Removal
+
+**V-DESIRR: Very Fast Deep Embedded Single Image Reflection Removal**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Prasad_V-DESIRR_Very_Fast_Deep_Embedded_Single_Image_Reflection_Removal_ICCV_2021_paper.html
+- Code: https://github.com/ee19d005/vdesirr
+- Tags: Reflection Removal
+
+**Unsupervised Non-Rigid Image Distortion Removal via Grid Deformation**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Li_Unsupervised_Non-Rigid_Image_Distortion_Removal_via_Grid_Deformation_ICCV_2021_paper.html
+- Code: https://github.com/Nianyi-Li/unsupervised-NDIR
+
+**Towards Flexible Blind JPEG Artifacts Removal**
+- Paper: https://arxiv.org/abs/2109.14573
+- Code: https://github.com/jiaxi-jiang/FBCNN
+- Tags: JPEG Artifacts Removal
+
+**Learning Dual Priors for JPEG Compression Artifacts Removal**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Fu_Learning_Dual_Priors_for_JPEG_Compression_Artifacts_Removal_ICCV_2021_paper.html
+- Tags: JPEG Artifacts Removal
+
+**CANet: A Context-Aware Network for Shadow Removal**
+- Paper: https://arxiv.org/abs/2108.09894
+- Code: https://github.com/Zipei-Chen/CANet
+- Tags: Shadow Removal
+
+**DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Jin_DC-ShadowNet_Single-Image_Hard_and_Soft_Shadow_Removal_Using_Unsupervised_Domain-Classifier_ICCV_2021_paper.html
+- Code: https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal
+- Tags: Shadow Removal
+
 
 ## Burst Restoration
 
@@ -172,10 +219,10 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2110.05655
 - Code: https://github.com/cmu-ci-lab/dual_pixel_defocus_estimation_deblurring
 
-**Pyramid Architecture Search for Real-Time Image Deblurring **
+**Pyramid Architecture Search for Real-Time Image Deblurring**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Hu_Pyramid_Architecture_Search_for_Real-Time_Image_Deblurring_ICCV_2021_paper.html
 
-**Perceptual Variousness Motion Deblurring With Light Global Context Refinement **
+**Perceptual Variousness Motion Deblurring With Light Global Context Refinement**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Li_Perceptual_Variousness_Motion_Deblurring_With_Light_Global_Context_Refinement_ICCV_2021_paper.html
 
 **Motion Deblurring with Real Events**
@@ -189,12 +236,23 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Shang_Bringing_Events_Into_Video_Deblurring_With_Non-Consecutively_Blurry_Frames_ICCV_2021_paper.html
 - Code：https://github.com/shangwei5/D2Net
 
-**Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring **
+**Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.html
 - Code: https://github.com/dseny/UHDVD
 
 <a name="Deraining"></a>
 # Deraining - 去雨 [[back](#catalogue)]
+
+**Structure-Preserving Deraining with Residue Channel Prior Guidance**
+- Paper: https://arxiv.org/abs/2108.09079
+- Code：https://github.com/Joyies/SPDNet
+
+**Improving De-Raining Generalization via Neural Reorganization**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Xiao_Improving_De-Raining_Generalization_via_Neural_Reorganization_ICCV_2021_paper.html
+- Code：https://github.com/cszn/BSRGAN
+
+**Unpaired Learning for Deep Image Deraining With Rain Direction Regularizer**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.html
 
 
 <a name="Dehazing"></a>
@@ -231,9 +289,6 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 # Image Matting - 图像抠图 [[back](#catalogue)]
 
 
-
-<a name="ShadowRemoval"></a>
-# Shadow Removal - 阴影消除 [[back](#catalogue)]
 
 
 <a name="Relighting"></a>
