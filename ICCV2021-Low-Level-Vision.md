@@ -31,10 +31,6 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 
 - [Deraining](#Deraining)
 
-- [Dehazing](#Dehazing)
-
-- [Demosaicing](#Demosaicing)
-
 - [HDR Imaging / Multi-Exposure Image Fusion](#HDR)
 
 - [Frame Interpolation](#FrameInterpolation)
@@ -83,10 +79,7 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Code: https://github.com/icthrm/SC-Net
 - Tags: Self-Supervised, Cryo-Electron Tomography Volumetric
 
-
-## Something Romoval 
-
-**Let's See Clearly: Contaminant Artifact Removal for Moving Cameras **
+**Let's See Clearly: Contaminant Artifact Removal for Moving Cameras**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Li_Lets_See_Clearly_Contaminant_Artifact_Removal_for_Moving_Cameras_ICCV_2021_paper.html
 
 **Light Source Guided Single-Image Flare Removal from Unpaired Data**
@@ -151,6 +144,13 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="Rescaling"></a>
 # Image Rescaling - 图像缩放 [[back](#catalogue)]
 
+**Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling **
+- Paper: https://arxiv.org/abs/2108.05301
+- Code: https://github.com/JingyunLiang/HCFlow
+
+**Self-Conditioned Probabilistic Learning of Video Rescaling**
+- Paper: https://arxiv.org/abs/2107.11639
+- Code: https://github.com/tianyuan168326/SelfC
 
 <a name="Denoising"></a>
 # Denoising - 去噪 [[back](#catalogue)]
@@ -255,14 +255,6 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.html
 
 
-<a name="Dehazing"></a>
-# Dehazing - 去雾 [[back](#catalogue)]
-
-
-<a name="Demosaicing"></a>
-# Demosaicing - 去马赛克 [[back](#catalogue)]
-
-
  <a name="HDR"></a>
 # HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合 [[back](#catalogue)]
 
@@ -272,6 +264,35 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强 [[back](#catalogue)]
+
+**StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement**
+- Paper：https://arxiv.org/abs/2107.12898
+- Code：https://github.com/IDKiro/StarEnhancer
+- 
+**Real-time Image Enhancer via Learnable Spatial-aware 3D Lookup Tables**
+- Paper：https://arxiv.org/abs/2108.08697
+
+**Deep Symmetric Network for Underexposed Image Enhancement With Recurrent Attentional Learning**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Deep_Symmetric_Network_for_Underexposed_Image_Enhancement_With_Recurrent_Attentional_ICCV_2021_paper.html
+- Code: https://github.com/lin-zhao-resoLve/Deep-Symmetric-Network-Enhancement
+
+**STAR: A Structure-Aware Lightweight Transformer for Real-Time Image Enhancement**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_STAR_A_Structure-Aware_Lightweight_Transformer_for_Real-Time_Image_Enhancement_ICCV_2021_paper.html
+- Code: https://github.com/zzyfd/STAR-pytorch
+
+## Low-Light Image Enhancement
+
+**Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement**
+- Paper：https://arxiv.org/abs/2110.00984
+- Code：https://github.com/YU-Zhiyang/WEVI
+
+**Representative Color Transform for Image Enhancement**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Representative_Color_Transform_for_Image_Enhancement_ICCV_2021_paper.html
+- Code: https://github.com/ThanosM97/Representative-Color-Transform
+
+**Seeing Dynamic Scene in the Dark: A High-Quality Video Dataset With Mechatronic Alignment**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Seeing_Dynamic_Scene_in_the_Dark_A_High-Quality_Video_Dataset_ICCV_2021_paper.html
+- Code: https://github.com/dvlab-research/SDSD
 
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
