@@ -262,6 +262,22 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧 [[back](#catalogue)]
 
+**XVFI: eXtreme Video Frame Interpolation**
+- Paper：https://arxiv.org/abs/2103.16206
+- Code：https://github.com/JihyongOh/XVFI
+- 
+**Asymmetric Bilateral Motion Estimation for Video Frame Interpolation**
+- Paper： https://arxiv.org/abs/2108.06815
+- Code： https://github.com/JunHeum/ABME
+
+**Training Weakly Supervised Video Frame Interpolation With Events**
+- Paper： https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Training_Weakly_Supervised_Video_Frame_Interpolation_With_Events_ICCV_2021_paper.html
+
+**Motion-Aware Dynamic Architecture for Efficient Frame Interpolation**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Choi_Motion-Aware_Dynamic_Architecture_for_Efficient_Frame_Interpolation_ICCV_2021_paper.html
+
+
+
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强 [[back](#catalogue)]
 
@@ -345,6 +361,10 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 ## Image-to-Image / Image Guided
 
 ## Others for image generation
+
+**Focal Frequency Loss for Image Reconstruction and Synthesis**
+- Paper: https://arxiv.org/abs/2012.12821
+- Code: https://github.com/EndlessSora/focal-frequency-loss
 
 
 <a name="VideoGeneration"></a>
