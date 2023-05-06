@@ -6,7 +6,6 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - [Awesome-NeurIPS2022/2021-Low-Level-Vision](https://github.com/DarrenPan/Awesome-NeurIPS2022-Low-Level-Vision)
 - [Awesome-ECCV2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-ECCV2022-Low-Level-Vision)
 - [Awesome-AAAI2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-AAAI2022-Low-Level-Vision)
-- [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
 - [Awesome-CVPR2021/2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
 - [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
 
@@ -123,6 +122,11 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Jin_DC-ShadowNet_Single-Image_Hard_and_Soft_Shadow_Removal_Using_Unsupervised_Domain-Classifier_ICCV_2021_paper.html
 - Code: https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal
 - Tags: Shadow Removal
+
+**Learning To Remove Refractive Distortions From Underwater Images**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Thapa_Learning_To_Remove_Refractive_Distortions_From_Underwater_Images_ICCV_2021_paper.html
+- Code: https://github.com/SimronThapa/DG-Net-ICCV2021
+- Tags: Underwater, Refraction Removal
 
 
 ## Burst Restoration
@@ -258,6 +262,22 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
  <a name="HDR"></a>
 # HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合 [[back](#catalogue)]
 
+**Unpaired Learning for High Dynamic Range Image Tone Mapping**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Vinker_Unpaired_Learning_for_High_Dynamic_Range_Image_Tone_Mapping_ICCV_2021_paper.html
+- Code: https://github.com/yael-vinker/unpaired_hdr_tmo
+- Tone Mapping
+
+**HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset**
+- Paper：https://arxiv.org/abs/2103.14943
+- Code：https://github.com/guanyingc/DeepHDRVideo
+
+**A New Journey from SDRTV to HDRTV**
+- Paper：https://arxiv.org/abs/2108.07978
+- Code：https://github.com/chxy95/HDRTVNet
+
+**Ultra-High-Definition Image HDR Reconstruction via Collaborative Bilateral Learning **
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zheng_Ultra-High-Definition_Image_HDR_Reconstruction_via_Collaborative_Bilateral_Learning_ICCV_2021_paper.html
+
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧 [[back](#catalogue)]
@@ -275,7 +295,6 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 
 **Motion-Aware Dynamic Architecture for Efficient Frame Interpolation**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Choi_Motion-Aware_Dynamic_Architecture_for_Efficient_Frame_Interpolation_ICCV_2021_paper.html
-
 
 
 <a name="Enhancement"></a>
@@ -296,6 +315,7 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_STAR_A_Structure-Aware_Lightweight_Transformer_for_Real-Time_Image_Enhancement_ICCV_2021_paper.html
 - Code: https://github.com/zzyfd/STAR-pytorch
 
+<a name="LowLight"></a>
 ## Low-Light Image Enhancement
 
 **Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement**
@@ -309,9 +329,6 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 **Seeing Dynamic Scene in the Dark: A High-Quality Video Dataset With Mechatronic Alignment**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Seeing_Dynamic_Scene_in_the_Dark_A_High-Quality_Video_Dataset_ICCV_2021_paper.html
 - Code: https://github.com/dvlab-research/SDSD
-
-<a name="LowLight"></a>
-## Low-Light Image Enhancement
 
 
 <a name="Harmonization"></a>
@@ -340,6 +357,24 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩 [[back](#catalogue)]
 
+**Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform**
+- Paper：https://arxiv.org/abs/2108.09551
+- Code：https://github.com/micmic123/QmapCompression
+
+**Neural Image Compression via Attentional Multi-Scale Back Projection and Frequency Decomposition**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Neural_Image_Compression_via_Attentional_Multi-Scale_Back_Projection_and_Frequency_ICCV_2021_paper.html
+
+## Video Compression
+
+**Extending Neural P-frame Codecs for B-frame Coding**
+- Paper：https://arxiv.org/abs/2104.00531
+
+**Efficient Video Compression via Content-Adaptive Super-Resolution**
+- Paper：https://arxiv.org/abs/2104.02322
+- Code：https://github.com/AdaptiveVC/SRVC
+
+**Online-Trained Upsampler for Deep Low Complexity Video Compression**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Klopp_Online-Trained_Upsampler_for_Deep_Low_Complexity_Video_Compression_ICCV_2021_paper.html
 
 
 <a name="ImageQualityAssessment"></a>
