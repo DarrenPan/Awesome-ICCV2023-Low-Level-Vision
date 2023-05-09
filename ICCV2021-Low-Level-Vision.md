@@ -285,7 +285,7 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 **XVFI: eXtreme Video Frame Interpolation**
 - Paper：https://arxiv.org/abs/2103.16206
 - Code：https://github.com/JihyongOh/XVFI
-- 
+
 **Asymmetric Bilateral Motion Estimation for Video Frame Interpolation**
 - Paper： https://arxiv.org/abs/2108.06815
 - Code： https://github.com/JunHeum/ABME
@@ -303,7 +303,7 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 **StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement**
 - Paper：https://arxiv.org/abs/2107.12898
 - Code：https://github.com/IDKiro/StarEnhancer
-- 
+
 **Real-time Image Enhancer via Learnable Spatial-aware 3D Lookup Tables**
 - Paper：https://arxiv.org/abs/2108.08697
 
