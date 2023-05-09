@@ -334,10 +334,61 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成 [[back](#catalogue)]
 
+**SSH: A Self-Supervised Framework for Image Harmonization**
+- Paper：https://arxiv.org/abs/2108.06805
+- Code：https://github.com/VITA-Group/SSHarmonization
+
+**Image Harmonization With Transformer**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.html
+- Code: https://github.com/zhenglab/HarmonyTransformer
+
 
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复 [[back](#catalogue)]
 
+**High-Fidelity Pluralistic Image Completion with Transformers**
+- Paper：https://arxiv.org/abs/2103.14031
+- Code：https://github.com/raywzy/ICT
+
+**Image Inpainting via Conditional Texture and Structure Dual Generation**
+- Paper：https://arxiv.org/abs/2108.09760
+- Code：https://github.com/Xiefan-Guo/CTSDG
+
+**CR-Fill: Generative Image Inpainting with Auxiliary Contextual Reconstruction**
+- Paper：https://arxiv.org/abs/2011.12836
+- Code：https://github.com/zengxianyu/crfill
+
+**Parallel Multi-Resolution Fusion Network for Image Inpainting**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Parallel_Multi-Resolution_Fusion_Network_for_Image_Inpainting_ICCV_2021_paper.html
+
+**WaveFill: A Wavelet-based Generation Network for Image Inpainting**
+- Paper: https://arxiv.org/abs/2107.11027
+- Code: https://github.com/yingchen001/WaveFill
+
+**Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes**
+- Paper: https://arxiv.org/abs/2103.15087
+- Code: https://github.com/ewrfcas/MST_inpainting
+
+**Distillation-Guided Image Inpainting**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Suin_Distillation-Guided_Image_Inpainting_ICCV_2021_paper.html
+
+## Video Inpainting
+
+**Internal Video Inpainting by Implicit Long-range Propagation**
+- Paper: https://arxiv.org/abs/2108.01912
+- Code1：https://github.com/Tengfei-Wang/Annotated-4K-Videos
+- Code2: https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting
+
+**Occlusion-Aware Video Object Inpainting**
+- Paper：https://arxiv.org/abs/2108.06765
+
+**FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Liu_FuseFormer_Fusing_Fine-Grained_Information_in_Transformers_for_Video_Inpainting_ICCV_2021_paper.html
+- Code：https://github.com/ruiliu-ai/FuseFormer
+
+**Flow-Guided Video Inpainting with Scene Templates**
+- Paper: https://arxiv.org/abs/2108.12845
+- Code: https://github.com/donglao/videoinpainting
 
 <a name="Matting"></a>
 # Image Matting - 图像抠图 [[back](#catalogue)]
