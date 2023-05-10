@@ -393,16 +393,27 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="Matting"></a>
 # Image Matting - 图像抠图 [[back](#catalogue)]
 
+**Cascade Image Matting with Deformable Graph Refinement**
+- Paper: https://arxiv.org/abs/2105.02646
 
+**Tripartite Information Mining and Integration for Image Matting**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Tripartite_Information_Mining_and_Integration_for_Image_Matting_ICCV_2021_paper.html
+- Code: https://github.com/kelisiya/TIMI-Net
 
+**Virtual Multi-Modality Self-Supervised Foreground Matting for Human-Object Interaction**
+- Paper: https://arxiv.org/abs/2110.03278
+- Code: https://github.com/jacksyu/hoi-matting
 
-<a name="Relighting"></a>
-# Relighting
+**Video Matting via Consistency-Regularized Graph Neural Networks**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Video_Matting_via_Consistency-Regularized_Graph_Neural_Networks_ICCV_2021_paper.html
+- Code: https://github.com/TiantianWang/VideoMatting-CRGNN
 
 
 <a name="Stitching"></a>
 # Image Stitching - 图像拼接 [[back](#catalogue)]
 
+**Minimal Solutions for Panoramic Stitching Given Gravity Prior**
+- Paper: https://arxiv.org/abs/2012.00465
 
 
 <a name="ImageCompression"></a>
@@ -430,6 +441,18 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价 [[back](#catalogue)]
+
+**Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment**
+- Paper: https://arxiv.org/abs/2108.07948
+- Code: https://github.com/researchmm/CKDN
+
+**Unsupervised Curriculum Domain Adaptation for No-Reference Video Quality Assessment**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Unsupervised_Curriculum_Domain_Adaptation_for_No-Reference_Video_Quality_Assessment_ICCV_2021_paper.html
+- Code: https://github.com/cpf0079/UCDA
+
+**MUSIQ: Multi-scale Image Quality Transformer**
+- Paper: https://arxiv.org/abs/2108.05997
+- Code: https://github.com/anse3832/MUSIQ
 
 
 <a name="StyleTransfer"></a>
@@ -460,6 +483,11 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 
 <a name="Others"></a>
 ## Others [[back](#catalogue)]
+
+**Neural Video Portrait Relighting in Real-time via Consistency Modeling**
+- Paper: https://arxiv.org/abs/2104.00484
+- Code: https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling
+- Tags: Relighting
 
 ## Talking Head Generation
 
