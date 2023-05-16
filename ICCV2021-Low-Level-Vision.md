@@ -140,15 +140,53 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="ImageSuperResolution"></a>
 ## Image Super Resolution
 
+**Attention-based Multi-Reference Learning for Image Super-Resolution**
+- Paper：https://arxiv.org/abs/2108.13697
+- Code：https://github.com/marcopesavento/Attention-based-Multi-Reference-Learning-for-Image-Super-Resolution
+
+**Learning A Single Network for Scale-Arbitrary Super-Resolution**
+- Paper：https://arxiv.org/abs/2004.03791
+- Code：https://github.com/LongguangWang/ArbSR
+
+**Fourier Space Losses for Efficient Perceptual Image Super-Resolution**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Fuoli_Fourier_Space_Losses_for_Efficient_Perceptual_Image_Super-Resolution_ICCV_2021_paper.html
+
+**Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution**
+- Code：https://github.com/JingyunLiang/MANet
+- Tags: Blind SR
+
+**Designing a Practical Degradation Model for Deep Blind Image Super-Resolution**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Designing_a_Practical_Degradation_Model_for_Deep_Blind_Image_Super-Resolution_ICCV_2021_paper.html
+- Code：https://github.com/cszn/BSRGAN
+- Tags: Blind
+
+**Event Stream Super-Resolution via Spatiotemporal Constraint Learning**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.html
+
+**Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Super-Resolving_Cross-Domain_Face_Miniatures_by_Peeking_at_One-Shot_Exemplar_ICCV_2021_paper.html
+
+**Lucas-Kanade Reloaded: End-to-End Super-Resolution from Raw Image Bursts**
+- Paper：https://arxiv.org/abs/2104.06191
+
 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
+## Deep Blind Video Super-resolution
+- Code：https://github.com/csbhr/Deep-Blind-VSR
+## Omniscient Video Super-Resolution
+- Code：https://github.com/psychopa4/OVSR
+
+## COMISR: Compression-Informed Video Super-Resolution
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_COMISR_Compression-Informed_Video_Super-Resolution_ICCV_2021_paper.html
+- Code：https://github.com/google-research/google-research/tree/master/comisr
+- 针对压缩后的视频超分
 
 <a name="Rescaling"></a>
 # Image Rescaling - 图像缩放 [[back](#catalogue)]
 
-**Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling **
+**Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling**
 - Paper: https://arxiv.org/abs/2108.05301
 - Code: https://github.com/JingyunLiang/HCFlow
 
