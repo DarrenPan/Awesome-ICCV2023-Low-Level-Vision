@@ -159,6 +159,10 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Context_Reasoning_Attention_Network_for_Image_Super-Resolution_ICCV_2021_paper.html
 - Code(Unofficial): https://github.com/Ast-363/CRAN
 
+**Learning Frequency-aware Dynamic Network for Efficient Super-Resolution**
+- Paper: https://arxiv.org/abs/2103.08357
+- Code(Unofficial): https://github.com/songyonger/FADN
+
 **Benchmarking Ultra-High-Definition Image Super-Resolution**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Benchmarking_Ultra-High-Definition_Image_Super-Resolution_ICCV_2021_paper.html
 - Code: https://github.com/HDCVLab/UHD4K_UHD8K
@@ -187,6 +191,11 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 
 **Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar**
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Super-Resolving_Cross-Domain_Face_Miniatures_by_Peeking_at_One-Shot_Exemplar_ICCV_2021_paper.html
+
+**Dual-Camera Super-Resolution with Aligned Attention Modules**
+- Paper: https://arxiv.org/abs/2109.01349
+- Code: https://github.com/Tengfei-Wang/DCSR
+- Tags: Dual-Camera
 
 **Lucas-Kanade Reloaded: End-to-End Super-Resolution from Raw Image Bursts**
 - Paper：https://arxiv.org/abs/2104.06191
