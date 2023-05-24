@@ -149,39 +149,72 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Code：https://github.com/LongguangWang/ArbSR
 
 **Fourier Space Losses for Efficient Perceptual Image Super-Resolution**
-- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Fuoli_Fourier_Space_Losses_for_Efficient_Perceptual_Image_Super-Resolution_ICCV_2021_paper.html
+- Paper：https://arxiv.org/abs/2106.00783
+
+**Dynamic High-Pass Filtering and Multi-Spectral Attention for Image Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Magid_Dynamic_High-Pass_Filtering_and_Multi-Spectral_Attention_for_Image_Super-Resolution_ICCV_2021_paper.html
+- Code: https://github.com/sabdelmagid/DFSA_ICCV21
+
+**Context Reasoning Attention Network for Image Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Context_Reasoning_Attention_Network_for_Image_Super-Resolution_ICCV_2021_paper.html
+- Code(Unofficial): https://github.com/Ast-363/CRAN
+
+**Benchmarking Ultra-High-Definition Image Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Benchmarking_Ultra-High-Definition_Image_Super-Resolution_ICCV_2021_paper.html
+- Code: https://github.com/HDCVLab/UHD4K_UHD8K
 
 **Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution**
 - Code：https://github.com/JingyunLiang/MANet
+- Code: https://arxiv.org/abs/2108.05302
 - Tags: Blind SR
 
 **Designing a Practical Degradation Model for Deep Blind Image Super-Resolution**
-- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Designing_a_Practical_Degradation_Model_for_Deep_Blind_Image_Super-Resolution_ICCV_2021_paper.html
+- Paper：https://arxiv.org/abs/2103.14006
 - Code：https://github.com/cszn/BSRGAN
-- Tags: Blind
+- Tags: Blind SR
 
-**Event Stream Super-Resolution via Spatiotemporal Constraint Learning**
-- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.html
+**Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Unsupervised_Real-World_Super-Resolution_A_Domain_Adaptation_Perspective_ICCV_2021_paper.html
+- Code(Unofficial): https://github.com/anse3832/USR_DA
+- Tags: Unsupervised
+
+**Achieving On-Mobile Real-Time Super-Resolution With Neural Architecture and Pruning Search**
+- Paper: https://arxiv.org/abs/2108.08910
+
+**EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Han_EvIntSR-Net_Event_Guided_Multiple_Latent_Frames_Reconstruction_and_Super-Resolution_ICCV_2021_paper.html
+- Tags: Event 
 
 **Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar**
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Super-Resolving_Cross-Domain_Face_Miniatures_by_Peeking_at_One-Shot_Exemplar_ICCV_2021_paper.html
 
 **Lucas-Kanade Reloaded: End-to-End Super-Resolution from Raw Image Bursts**
 - Paper：https://arxiv.org/abs/2104.06191
-
+- Tags: Burst SR
 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
-## Deep Blind Video Super-resolution
+**Deep Blind Video Super-resolution**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Pan_Deep_Blind_Video_Super-Resolution_ICCV_2021_paper.html
 - Code：https://github.com/csbhr/Deep-Blind-VSR
-## Omniscient Video Super-Resolution
+
+**Omniscient Video Super-Resolution**
+- Paper: https://arxiv.org/abs/2103.15683
 - Code：https://github.com/psychopa4/OVSR
 
-## COMISR: Compression-Informed Video Super-Resolution
-- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_COMISR_Compression-Informed_Video_Super-Resolution_ICCV_2021_paper.html
+**COMISR: Compression-Informed Video Super-Resolution**
+- Paper：https://arxiv.org/abs/2105.01237
 - Code：https://github.com/google-research/google-research/tree/master/comisr
-- 针对压缩后的视频超分
+
+**Real-World Video Super-Resolution: A Benchmark Dataset and a Decomposition Based Learning Scheme**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Yang_Real-World_Video_Super-Resolution_A_Benchmark_Dataset_and_a_Decomposition_Based_ICCV_2021_paper.html
+- Code: https://github.com/IanYeung/RealVSR
+- Tags: Real
+
+**Event Stream Super-Resolution via Spatiotemporal Constraint Learning**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.html
+- Tags: Event
 
 <a name="Rescaling"></a>
 # Image Rescaling - 图像缩放 [[back](#catalogue)]
