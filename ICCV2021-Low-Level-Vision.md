@@ -128,6 +128,10 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Code: https://github.com/SimronThapa/DG-Net-ICCV2021
 - Tags: Underwater, Refraction Removal
 
+**ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-Tree Complex Wavelet Representation and Contradict Channel Loss**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.html
+- Code: https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet
+- Tags: Desnowing
 
 ## Burst Restoration
 
@@ -538,6 +542,30 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移 [[back](#catalogue)]
 
+**Diverse Image Style Transfer via Invertible Cross-Space Mapping**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Diverse_Image_Style_Transfer_via_Invertible_Cross-Space_Mapping_ICCV_2021_paper.html
+
+**DRB-GAN: A Dynamic ResBlock Generative Adversarial Network for Artistic Style Transfer**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Xu_DRB-GAN_A_Dynamic_ResBlock_Generative_Adversarial_Network_for_Artistic_Style_ICCV_2021_paper.html
+
+**Domain Aware Universal Style Transfer**
+- Paper：https://arxiv.org/abs/2108.04441
+- Code：https://github.com/Kibeom-Hong/Domain-Aware-Style-Transfer
+
+**StyleFormer: Real-Time Arbitrary Style Transfer via Parametric Style Composition**
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Wu_StyleFormer_Real-Time_Arbitrary_Style_Transfer_via_Parametric_Style_Composition_ICCV_2021_paper.html
+
+**AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer**
+- Paper：https://arxiv.org/abs/2108.03647
+- Code：https://github.com/Huage001/AdaAttN
+
+**Manifold Alignment for Semantically Aligned Style Transfer**
+- Paper: https://arxiv.org/abs/2005.10777
+- Code: https://github.com/NJUHuoJing/MAST
+
+**ALADIN: All Layer Adaptive Instance Normalization for Fine-grained Style Similarity**
+- Paper：https://arxiv.org/abs/2103.09776
+
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑 [[back](#catalogue)]
@@ -568,6 +596,26 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2104.00484
 - Code: https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling
 - Tags: Relighting
+
+**Towards Vivid and Diverse Image Colorization with Generative Color Prior**
+- Paper：https://arxiv.org/abs/2108.08826
+- Code: https://github.com/ToTheBeginning/GCP-Colorization
+- Tags: Colorization
+
+**Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects**
+- Paper：https://arxiv.org/abs/2107.01619
+- Code: https://github.com/niceDuckgu/CDR
+- Tags: Colorization
+
+**Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
+- Paper: https://arxiv.org/abs/2108.08202
+- Code: https://github.com/Neural-video-delivery/CaFM-Pytorch-ICCV2021
+- Tags: Video Delivery
+
+**IICNet: A Generic Framework for Reversible Image Conversion**
+- Paper: https://arxiv.org/abs/2109.04242
+- Code: https://github.com/felixcheng97/IICNet
+- Tags: Reversible Image Conversion
 
 ## Talking Head Generation
 
