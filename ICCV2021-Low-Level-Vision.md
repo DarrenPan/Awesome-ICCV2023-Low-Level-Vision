@@ -577,11 +577,51 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 
 ## Image-to-Image / Image Guided
 
+**Bridging the Gap Between Label- and Reference-Based Synthesis in Multi-Attribute Image-to-Image Translation**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Huang_Bridging_the_Gap_Between_Label-_and_Reference-Based_Synthesis_in_Multi-Attribute_ICCV_2021_paper.html
+- Code: https://github.com/huangqiusheng/BridgeGAN
+
+**Instance-wise Hard Negative Example Generation for Contrastive Learning in Unpaired Image-to-Image Translation**
+- Paper: https://arxiv.org/abs/2108.04547
+- Code: https://github.com/WeilunWang/NEGCUT
+
+**Unaligned Image-to-Image Translation by Learning to Reweight**
+- Paper：https://arxiv.org/abs/2109.11736
+- Code：https://github.com/Mid-Push/IrwGAN
+
+**TransferI2I: Transfer Learning for Image-to-Image Translation from Small Datasets**
+- Paper: https://arxiv.org/abs/2105.06219
+
+**SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation**
+- Paper：https://arxiv.org/abs/2103.16219
+- Code：https://github.com/NetEase-GameAI/SPatchGAN
+
+**Rethinking the Truly Unsupervised Image-to-Image Translation**
+- Paper: https://arxiv.org/abs/2006.06500
+- Code: https://github.com/clovaai/tunit
+
+**Scaling-up Disentanglement for Image Translation**
+- Paper：https://arxiv.org/abs/2103.14017
+- Code：https://github.com/avivga/overlord
+
+**Harnessing the Conditioning Sensorium for Improved Image Translation**
+- Paper: https://arxiv.org/abs/2110.06443
+
+**Semantically Robust Unpaired Image Translation for Data with Unmatched Semantics Statistics**
+- Paper: https://arxiv.org/abs/2012.04932
+- Code: https://github.com/SeanJia/SRUNIT
+
+**Frequency Domain Image Translation: More Photo-realistic, Better Identity-preserving**
+- Paper: https://arxiv.org/abs/2011.13611
+- Code: https://github.com/mu-cai/frequency-domain-image-translation
+
 ## Others for image generation
 
 **Focal Frequency Loss for Image Reconstruction and Synthesis**
 - Paper: https://arxiv.org/abs/2012.12821
 - Code: https://github.com/EndlessSora/focal-frequency-loss
+
+
 
 
 <a name="VideoGeneration"></a>
