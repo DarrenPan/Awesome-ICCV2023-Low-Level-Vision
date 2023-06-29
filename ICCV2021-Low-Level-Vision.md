@@ -570,6 +570,32 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑 [[back](#catalogue)]
 
+**Latent Transformations via NeuralODEs for GAN-Based Image Editing**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Khrulkov_Latent_Transformations_via_NeuralODEs_for_GAN-Based_Image_Editing_ICCV_2021_paper.html
+
+**Language-Guided Global Image Editing via Cross-Modal Cyclic Mechanism**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Jiang_Language-Guided_Global_Image_Editing_via_Cross-Modal_Cyclic_Mechanism_ICCV_2021_paper.html
+
+**Talk-to-Edit: Fine-Grained Facial Editing via Dialog**
+- Paper: https://arxiv.org/abs/2109.04425
+- Code: https://github.com/yumingj/Talk-to-Edit
+
+**A Latent Transformer for Disentangled Face Editing in Images and Videos**
+- Paper: https://arxiv.org/abs/2106.11895
+- Code: https://github.com/InterDigitalInc/latent-transformer
+
+**GAN Inversion for Out-of-Range Images with Geometric Transformations**
+- Paper: https://arxiv.org/abs/2108.08998
+- Code: https://github.com/kkang831/BDInvert_Release
+
+**Image Shape Manipulation from a Single Augmented Training Sample**
+- Paper: https://arxiv.org/abs/2007.01289
+- Code: https://github.com/eliahuhorwitz/DeepSIM
+
+**StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**
+- Paper: https://arxiv.org/abs/2103.17249
+- Code: https://github.com/orpatashnik/StyleCLIP
+
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
