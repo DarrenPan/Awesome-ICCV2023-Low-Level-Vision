@@ -592,14 +592,17 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2007.01289
 - Code: https://github.com/eliahuhorwitz/DeepSIM
 
+<a name=ImageGeneration></a>
+# Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
+## Text-to-Image / Text Guided / Multi-Modal
+
 **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**
 - Paper: https://arxiv.org/abs/2103.17249
 - Code: https://github.com/orpatashnik/StyleCLIP
 
-
-<a name=ImageGeneration></a>
-# Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
-## Text-to-Image / Text Guided / Multi-Modal
+**DAE-GAN: Dynamic Aspect-Aware GAN for Text-to-Image Synthesis**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.html
+- Code: https://github.com/hiarsal/DAE-GAN
 
 ## Image-to-Image / Image Guided
 
