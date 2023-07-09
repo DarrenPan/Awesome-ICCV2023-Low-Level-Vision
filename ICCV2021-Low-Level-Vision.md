@@ -592,6 +592,10 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2007.01289
 - Code: https://github.com/eliahuhorwitz/DeepSIM
 
+**Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing**
+- Paper: https://arxiv.org/abs/2104.07021
+- Code: https://github.com/cuiaiyu/dressing-in-order
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
 ## Text-to-Image / Text Guided / Multi-Modal
@@ -603,6 +607,10 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 **DAE-GAN: Dynamic Aspect-Aware GAN for Text-to-Image Synthesis**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.html
 - Code: https://github.com/hiarsal/DAE-GAN
+
+**PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering**
+- Paper: https://arxiv.org/abs/2109.08379
+- Code: https://github.com/RenYurui/PIRender
 
 ## Image-to-Image / Image Guided
 
@@ -644,14 +652,38 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2011.13611
 - Code: https://github.com/mu-cai/frequency-domain-image-translation
 
+**Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation**
+- Paper: https://arxiv.org/abs/2103.16146
+- Code: https://github.com/cyclomon/DiagonalGAN
+
 ## Others for image generation
 
 **Focal Frequency Loss for Image Reconstruction and Synthesis**
 - Paper: https://arxiv.org/abs/2012.12821
 - Code: https://github.com/EndlessSora/focal-frequency-loss
 
+**Unsupervised Image Generation with Infinite Generative Adversarial Networks**
+- Paper: https://arxiv.org/abs/2108.07975
+- Code: https://github.com/yinghdb/MICGANs
 
+**Semi-Supervised Single-Stage Controllable GANs for Conditional Fine-Grained Image Generation**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Semi-Supervised_Single-Stage_Controllable_GANs_for_Conditional_Fine-Grained_Image_Generation_ICCV_2021_paper.html
 
+**Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation**
+- Paper: https://arxiv.org/abs/2108.07668
+- Code: https://github.com/csyxwei/OroJaR
+
+**LoFGAN: Fusing Local Representations for Few-Shot Image Generation**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Gu_LoFGAN_Fusing_Local_Representations_for_Few-Shot_Image_Generation_ICCV_2021_paper.html
+- Code: https://github.com/edward3862/LoFGAN-pytorch
+
+**Dual Projection Generative Adversarial Networks for Conditional Image Generation**
+- Paper: https://arxiv.org/abs/2108.09016
+- Code: https://github.com/phymhan/P2GAN
+
+**Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation**
+- Paper: https://arxiv.org/abs/2103.16795
+- Code: https://github.com/boschresearch/MCCGAN
 
 <a name="VideoGeneration"></a>
 ## Video Generation
