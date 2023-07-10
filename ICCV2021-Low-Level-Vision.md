@@ -656,6 +656,19 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2103.16146
 - Code: https://github.com/cyclomon/DiagonalGAN
 
+**Image Synthesis via Semantic Composition**
+- Paper: https://arxiv.org/abs/2109.07053
+- Code:https://github.com/dvlab-research/SCGAN
+
+**Collaging Class-specific GANs for Semantic Image Synthesis**
+- Paper: https://arxiv.org/abs/2110.04281
+
+**Image Synthesis From Layout With Locality-Aware Mask Adaption**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Li_Image_Synthesis_From_Layout_With_Locality-Aware_Mask_Adaption_ICCV_2021_paper.html
+
+**Structure-Transformed Texture-Enhanced Network for Person Image Synthesis**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Structure-Transformed_Texture-Enhanced_Network_for_Person_Image_Synthesis_ICCV_2021_paper.html
+
 ## Others for image generation
 
 **Focal Frequency Loss for Image Reconstruction and Synthesis**
