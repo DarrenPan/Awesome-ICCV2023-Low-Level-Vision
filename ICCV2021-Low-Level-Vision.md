@@ -701,6 +701,16 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 <a name="VideoGeneration"></a>
 ## Video Generation
 
+**Click to Move: Controlling Video Generation with Sparse Motion**
+- Paper: https://arxiv.org/abs/2108.08815
+- Code: https://github.com/PierfrancescoArdino/C2M
+
+**iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis**
+- Paper: https://arxiv.org/abs/2107.02790
+- Code: https://github.com/CompVis/ipoke
+
+**Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image**
+- Paper: https://arxiv.org/abs/2012.06628
 
 
 <a name="Others"></a>
@@ -731,10 +741,23 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Code: https://github.com/felixcheng97/IICNet
 - Tags: Reversible Image Conversion
 
+**FashionMirror: Co-Attention Feature-Remapping Virtual Try-On With Sequential Template Poses**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Chen_FashionMirror_Co-Attention_Feature-Remapping_Virtual_Try-On_With_Sequential_Template_Poses_ICCV_2021_paper.html
+- Code: https://github.com/FashionMirror/FashionMirror
+- Tags: Virtual Try-on
+
 ## Talking Head Generation
 
-## Virtual Try-on
+
+
+
 
 ## Handwriting/Font Generation
 
+**Handwriting Transformers**
+- Paper: https://arxiv.org/abs/2104.03964
+- Code: https://github.com/ankanbhunia/Handwriting-Transformers
 
+**Multiple Heads are Better than One: Few-shot Font Generation with Multiple Localized Exper**
+- Paper: https://arxiv.org/abs/2104.00887
+- Code: https://github.com/clovaai/mxfont
