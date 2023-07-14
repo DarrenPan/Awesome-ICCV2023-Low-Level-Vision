@@ -596,6 +596,10 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2104.07021
 - Code: https://github.com/cuiaiyu/dressing-in-order
 
+**Toward a Visual Concept Vocabulary for GAN Latent Space**
+- Paper: https://arxiv.org/abs/2110.04292
+- Code: https://github.com/schwettmann/visual-vocab
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
 ## Text-to-Image / Text Guided / Multi-Modal
@@ -669,6 +673,17 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 **Structure-Transformed Texture-Enhanced Network for Person Image Synthesis**
 - Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Structure-Transformed_Texture-Enhanced_Network_for_Person_Image_Synthesis_ICCV_2021_paper.html
 
+**ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models**
+- Paper: https://arxiv.org/abs/2108.02938
+- Code: https://github.com/jychoi118/ilvr_adm
+
+**Sketch Your Own GAN**
+- Paper: https://arxiv.org/abs/2108.02774
+- Code: https://github.com/PeterWang512/GANSketching
+
+**Re-Aging GAN: Toward Personalized Face Age Transformation**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Makhmudkhujaev_Re-Aging_GAN_Toward_Personalized_Face_Age_Transformation_ICCV_2021_paper.html
+
 ## Others for image generation
 
 **Focal Frequency Loss for Image Reconstruction and Synthesis**
@@ -697,6 +712,25 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 **Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation**
 - Paper: https://arxiv.org/abs/2103.16795
 - Code: https://github.com/boschresearch/MCCGAN
+
+**GAN-Control: Explicitly Controllable GANs**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Shoshan_GAN-Control_Explicitly_Controllable_GANs_ICCV_2021_paper.html
+- Code: https://github.com/amazon-science/gan-control
+
+**Omni-GAN: On the Secrets of cGANs and Beyond**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_Omni-GAN_On_the_Secrets_of_cGANs_and_Beyond_ICCV_2021_paper.html
+- Code: https://github.com/PeterouZh/Omni-GAN-PyTorch
+
+**Detail Me More: Improving GAN's Photo-Realism of Complex Scenes**
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Gadde_Detail_Me_More_Improving_GANs_Photo-Realism_of_Complex_Scenes_ICCV_2021_paper.html
+
+**Online Multi-Granularity Distillation for GAN Compression**
+- Paper: https://arxiv.org/abs/2108.06908
+- Code: https://github.com/bytedance/OMGD
+
+**WarpedGANSpace: Finding non-linear RBF paths in GAN latent space**
+- Paper: https://arxiv.org/abs/2109.13357
+- Code: https://github.com/chi0tzp/WarpedGANSpace
 
 <a name="VideoGeneration"></a>
 ## Video Generation
@@ -748,9 +782,13 @@ A Collection of Papers and Codes in ICCV2021 related to Low-Level Vision
 
 ## Talking Head Generation
 
+**Learned Spatial Representations for Few-shot Talking-Head Synthesis**
+- Paper: https://arxiv.org/abs/2104.14557
+- Code: https://github.com/MoustafaMeshry/lsr
 
-
-
+**FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning**
+- Paper: https://arxiv.org/abs/2108.07938
+- Code: https://github.com/zhangchenxu528/FACIAL
 
 ## Handwriting/Font Generation
 
