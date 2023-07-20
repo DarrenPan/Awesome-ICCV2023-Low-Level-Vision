@@ -67,6 +67,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复 [[back](#catalogue)]
 
+**Multi-weather Image Restoration via Domain Translation**
+- Paper:
+- Code: https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration
+- Tags: Multi-weather
+
 **Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond**
 - Paper: https://arxiv.org/abs/2307.08996
 - Tags: Authentic Face Restoration, Diffusion
@@ -183,6 +188,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价 [[back](#catalogue)]
 
+**Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives**
+- Paper https://arxiv.org/abs/2211.04894
+- Code: https://github.com/VQAssessment/DOVER
 
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移 [[back](#catalogue)]
@@ -198,6 +206,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2307.07790
 - Code: https://github.com/Hzzone/AdaTrans
 
+**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**
+- Paper: https://arxiv.org/abs/2304.02051
+- Code: https://github.com/aimagelab/multimodal-garment-designer 
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
 ## Text-to-Image / Text Guided / Multi-Modal
@@ -206,6 +218,21 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.13126
 - Code: https://github.com/MagicFusion/MagicFusion.github.io
 
+**ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation**
+- Paper: https://arxiv.org/abs/2302.13848
+- Code: https://github.com/csyxwei/ELITE
+
+**Better Aligning Text-to-Image Models with Human Preference**
+- Paper: https://arxiv.org/abs/2303.14420
+- Code: https://github.com/tgxs002/align_sd
+
+**Unleashing Text-to-Image Diffusion Models for Visual Perception**
+- Paper: https://arxiv.org/abs/2303.02153
+- Code: https://github.com/wl-zhao/VPD
+
+**Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models**
+- Paper: https://arxiv.org/abs/2306.05357
+- Code: https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery
 
 ## Image-to-Image / Image Guided
 
@@ -217,6 +244,14 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration**
 - Paper: https://arxiv.org/abs/2307.09621
 
+**Masked Diffusion Transformer is a Strong Image Synthesizer**
+- Paper: https://arxiv.org/abs/2303.14389
+- Code: https://github.com/sail-sg/MDT
+
+**Q-Diffusion: Quantizing Diffusion Models**
+- Paper: https://arxiv.org/abs/2302.04304
+- Code: https://github.com/Xiuyu-Li/q-diffusion
+
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -227,6 +262,14 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**
 - Paper: https://arxiv.org/abs/2307.10008
 - Code: https://github.com/DreamtaleCore/MODA
+
+**Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**
+- Paper: https://arxiv.org/abs/2303.13439
+- Code: https://github.com/Picsart-AI-Research/Text2Video-Zero
+
+**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**
+- Paper: https://arxiv.org/abs/2303.09535
+- Code: https://github.com/ChenyangQiQi/FateZero
 
 <a name="Others"></a>
 ## Others [[back](#catalogue)]
