@@ -48,8 +48,6 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 - [Image Matting](#Matting)
 
-- [Shadow Removal](#ShadowRemoval)
-
 - [Image Stitching](#Stitching)
 
 - [Image Compression](#ImageCompression)
@@ -69,12 +67,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复 [[back](#catalogue)]
 
+**Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond**
+- Paper: https://arxiv.org/abs/2307.08996
+- Tags: Authentic Face Restoration, Diffusion
 
 
-**Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration**
-- Paper: https://aaai-2022.virtualchair.net/poster_aaai4252
-- Code: https://github.com/wyhuai/Panini-Net
-- Tags: Face Restoration
 
 <a name="BurstRestoration"></a>
 ## Burst Restoration 
@@ -91,6 +88,13 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
+
+
+## Spatial-Temporal Video Super-Resolution
+
+**MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution**
+- Paper: https://arxiv.org/abs/2307.07988
+- Code: https://github.com/sichun233746/MoTIF
 
 
 <a name="Rescaling"></a>
@@ -141,6 +145,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
 
+**ExposureDiffusion: Learning to Expose for Low-light Image Enhancement**
+- Paper: https://arxiv.org/abs/2307.07710
+
 
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成 [[back](#catalogue)]
@@ -180,29 +187,55 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移 [[back](#catalogue)]
 
-
+**AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks**
+- Paper: https://arxiv.org/abs/2307.09724
+- Code: https://github.com/Kibeom-Hong/AesPA-Net
+  
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑 [[back](#catalogue)]
 
+**Adaptive Nonlinear Latent Transformation for Conditional Face Editing**
+- Paper: https://arxiv.org/abs/2307.07790
+- Code: https://github.com/Hzzone/AdaTrans
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
 ## Text-to-Image / Text Guided / Multi-Modal
 
+**MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models**
+- Paper: https://arxiv.org/abs/2303.13126
+- Code: https://github.com/MagicFusion/MagicFusion.github.io
+
+
 ## Image-to-Image / Image Guided
+
+**Reinforced Disentanglement for Face Swapping without Skip Connection**
+- Paper: https://arxiv.org/abs/2307.07928
 
 ## Others for image generation
 
+**Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration**
+- Paper: https://arxiv.org/abs/2307.09621
 
 <a name="VideoGeneration"></a>
 ## Video Generation
 
+**Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer**
+- Paper: https://arxiv.org/abs/2307.07754
+- Code: https://github.com/rocketappslab/bdmm
 
+**MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**
+- Paper: https://arxiv.org/abs/2307.10008
+- Code: https://github.com/DreamtaleCore/MODA
 
 <a name="Others"></a>
 ## Others [[back](#catalogue)]
 
 ## Talking Head Generation
+
+**Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation**
+- Paper: https://arxiv.org/abs/2307.09906
+- Code: https://github.com/harlanhong/ICCV2023-MCNET
 
 ## Virtual Try-on
 
