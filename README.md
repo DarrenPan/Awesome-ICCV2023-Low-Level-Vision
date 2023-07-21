@@ -76,6 +76,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2307.08996
 - Tags: Authentic Face Restoration, Diffusion
 
+**Physics-Driven Turbulence Image Restoration with Stochastic Refinement**
+- Paper: https://arxiv.org/abs/2307.10603
+- Code: https://github.com/VITA-Group/PiRN
+- Tags: Turbulence Image
 
 
 <a name="BurstRestoration"></a>
@@ -89,6 +93,14 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Super Resolution - 超分辨率 [[back](#catalogue)]
 <a name="ImageSuperResolution"></a>
 ## Image Super Resolution
+
+**SRFormer: Permuted Self-Attention for Single Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2303.09735 
+- Code: https://github.com/HVision-NKU/SRFormer
+
+**Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
+- Paper: https://arxiv.org/abs/2303.08942
+- Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet
 
 
 <a name="VideoSuperResolution"></a>
@@ -111,6 +123,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 <a name="ImageDenoising"></a>
 ## Image Denoising
+
+**Hybrid Spectral Denoising Transformer with Learnable Query**
+- Paper: https://arxiv.org/abs/2303.09040
+- Code: https://github.com/Zeqiang-Lai/HSDT
+- Tags: hyperspectral image denoising
 
 <a name="VideoDenoising"></a>
 ## Video Denoising
@@ -153,10 +170,17 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **ExposureDiffusion: Learning to Expose for Low-light Image Enhancement**
 - Paper: https://arxiv.org/abs/2307.07710
 
+**Implicit Neural Representation for Cooperative Low-light Image Enhancement**
+- Paper: https://arxiv.org/abs/2303.11722
+- Code: https://github.com/Ysz2022/NeRCo
+
 
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成 [[back](#catalogue)]
 
+**Deep Image Harmonization with Learnable Augmentation**
+- Paper:
+- Code: https://github.com/bcmi/SycoNet-Adaptive-Image-Harmonization
 
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复 [[back](#catalogue)]
@@ -166,13 +190,6 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Image Matting - 图像抠图 [[back](#catalogue)]
 
 
-
-<a name="ShadowRemoval"></a>
-# Shadow Removal - 阴影消除 [[back](#catalogue)]
-
-
-<a name="Relighting"></a>
-# Relighting
 
 
 <a name="Stitching"></a>
@@ -187,6 +204,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价 [[back](#catalogue)]
+
+**Delegate Transformer for Image Color Aesthetics Assessment**
+- Paper:
+- Code: https://github.com/woshidandan/Image-Color-Aesthetics-Assessment/tree/main
 
 **Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives**
 - Paper https://arxiv.org/abs/2211.04894
@@ -209,6 +230,16 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**
 - Paper: https://arxiv.org/abs/2304.02051
 - Code: https://github.com/aimagelab/multimodal-garment-designer 
+
+**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**
+- Paper: https://arxiv.org/abs/2304.08465
+- Code: https://github.com/TencentARC/MasaCtrl
+
+**Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation**
+- Paper: https://arxiv.org/abs/2307.08448
+- Code: https://github.com/AndysonYs/Selective-Diffusion-Distillation
+
+
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
@@ -234,10 +265,22 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2306.05357
 - Code: https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery
 
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**
+- Paper: https://arxiv.org/abs/2307.10816
+- Code: https://github.com/Sierkinhane/BoxDiff
+
+**Ablating Concepts in Text-to-Image Diffusion Models**
+- Paper: https://arxiv.org/abs/2303.13516
+- Code: https://github.com/nupurkmr9/concept-ablation
+
 ## Image-to-Image / Image Guided
 
 **Reinforced Disentanglement for Face Swapping without Skip Connection**
 - Paper: https://arxiv.org/abs/2307.07928
+
+**BlendFace: Re-designing Identity Encoders for Face-Swapping**
+- Paper: https://arxiv.org/abs/2307.10854
+- Code: https://github.com/mapooon/BlendFace
 
 ## Others for image generation
 
@@ -274,14 +317,26 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 <a name="Others"></a>
 ## Others [[back](#catalogue)]
 
+**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**
+- Paper: https://arxiv.org/abs/2212.11613
+- Code: https://github.com/piddnad/DDColor
+- Tags: Colorization
+
+**DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion**
+- Paper: https://arxiv.org/abs/2303.06840
+- Code: https://github.com/Zhaozixiang1228/MMIF-DDFM
+- Tags: Image Fusion
+
 ## Talking Head Generation
 
 **Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation**
 - Paper: https://arxiv.org/abs/2307.09906
 - Code: https://github.com/harlanhong/ICCV2023-MCNET
 
+
+<!--
 ## Virtual Try-on
 
 ## Handwriting/Font Generation
-
+-->
 
