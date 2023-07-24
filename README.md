@@ -132,6 +132,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 <a name="ImageDenoising"></a>
 ## Image Denoising
 
+**Random Sub-Samples Generation for Self-Supervised Real Image Denoising**
+- Paper:
+- Code: https://github.com/p1y2z3/SDAP
+
 **The Devil is in the Upsampling: Architectural Decisions Made Simpler for Denoising with Deep Image Prior**
 - Paper: https://arxiv.org/abs/2304.11409
 - Code: https://github.com/YilinLiu97/FasterDIP-devil-in-upsampling
@@ -274,9 +278,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2307.08448
 - Code: https://github.com/AndysonYs/Selective-Diffusion-Distillation
 
-**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**
-- Paper: https://arxiv.org/abs/2304.02051
-- Code: https://github.com/aimagelab/multimodal-garment-designer
+**HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending**
+- Paper: 
+- Code: https://github.com/wty-ustc/HairCLIPv2
 
 [[Back-to-Overview](#overview)]
 
