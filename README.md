@@ -136,7 +136,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Image Rescaling - 图像缩放 [[back](#catalogue)]
 -->
 
-# Denoising - 去噪 [[back](#catalogue)]
+# Denoising
 ## Image Denoising
 
 **Random Sub-Samples Generation for Self-Supervised Real Image Denoising**
