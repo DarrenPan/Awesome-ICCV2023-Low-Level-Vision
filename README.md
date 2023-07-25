@@ -64,6 +64,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 # Image Restoration
 
+**DiffIR: Efficient Diffusion Model for Image Restoration**
+- Paper: https://arxiv.org/abs/2303.09472
+- Code: https://github.com/Zj-BinXia/DiffIR
+
 **Multi-weather Image Restoration via Domain Translation**
 - Paper:
 - Code: https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration
@@ -104,13 +108,17 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.09735 
 - Code: https://github.com/HVision-NKU/SRFormer
 
+**Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2302.13800
+- Code: https://github.com/sunny2109/SAFMN
+
 **Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
 - Paper: https://arxiv.org/abs/2303.08942
 - Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet
 
-**Diffir: Efficient diffusion model for image restoration**
-- Paper:
-- Code: https://github.com/Zj-BinXia/DiffIR
+**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Network for Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2301.02031
+- Code: https://github.com/NeonLeexiang/DLGSANet
 
 <!--
 ## Video Super Resolution
