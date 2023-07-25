@@ -96,6 +96,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 <a name="ImageSuperResolution"></a>
 ## Image Super Resolution
 
+**On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement**
+- Paper: https://arxiv.org/abs/2307.12027
+- Code: https://github.com/Luciennnnnnn/DualFormer
+
 **SRFormer: Permuted Self-Attention for Single Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2303.09735 
 - Code: https://github.com/HVision-NKU/SRFormer
