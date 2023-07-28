@@ -183,9 +183,15 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # HDR Imaging / Multi-Exposure Image Fusion
 
 [[Back-to-Overview](#overview)]
-# Frame Interpolation
-[[Back-to-Overview](#overview)]
+
 -->
+# Frame Interpolation
+
+**Video Object Segmentation-aware Video Frame Interpolation**
+- Paper:
+- Code: https://github.com/junsang7777/VOS-VFI
+
+[[Back-to-Overview](#overview)]
 
 # Image Enhancement
 
@@ -212,10 +218,15 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 [[Back-to-Overview](#overview)]
 
-<!--
+
 # Image Completion/Inpaintin
 
+**Diverse Inpainting and Editing with GAN Inversion**
+- Paper: https://arxiv.org/abs/2307.15033
+
 [[Back-to-Overview](#overview)]
+
+<!--
 # Image Matting
 
 [[Back-to-Overview](#overview)]
@@ -242,11 +253,15 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/woshidandan/Image-Color-Aesthetics-Assessment/tree/main
 
+**Test Time Adaptation for Blind Image Quality Assessment**
+- Paper: https://arxiv.org/abs/2307.14735
+
 **Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives**
 - Paper https://arxiv.org/abs/2211.04894
 - Code: https://github.com/VQAssessment/DOVER
 
 [[Back-to-Overview](#overview)]
+
 # Style Transfer
 
 **AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks**
@@ -284,6 +299,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces**
 - Paper: https://arxiv.org/abs/2303.06146
 - Code: https://github.com/williamyang1991/StyleGANEX
+
+**Diverse Inpainting and Editing with GAN Inversion**
+- Paper: https://arxiv.org/abs/2307.15033
 
 [[Back-to-Overview](#overview)]
 
@@ -326,6 +344,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **BlendFace: Re-designing Identity Encoders for Face-Swapping**
 - Paper: https://arxiv.org/abs/2307.10854
 - Code: https://github.com/mapooon/BlendFace
+
+**General Image-to-Image Translation with One-Shot Image Guidance**
+- Paper: https://arxiv.org/abs/2307.14352
+- Code: https://github.com/CrystalNeuro/visual-concept-translator
 
 ## Others for image generation
 
