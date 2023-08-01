@@ -136,15 +136,18 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 [[Back-to-Overview](#overview)]
 
-<!--
-# Image Rescaling - 图像缩放 [[back](#catalogue)]
--->
+# Image Rescaling
+
+**Downscaled Representation Matters: Improving Image Rescaling with Collaborative Downscaled Images**
+- Paper: https://arxiv.org/abs/2211.10643
+
+[[Back-to-Overview](#overview)]
 
 # Denoising
 ## Image Denoising
 
 **Random Sub-Samples Generation for Self-Supervised Real Image Denoising**
-- Paper:
+- Paper: https://arxiv.org/abs/2307.16825
 - Code: https://github.com/p1y2z3/SDAP
 
 **The Devil is in the Upsampling: Architectural Decisions Made Simpler for Denoising with Deep Image Prior**
@@ -152,8 +155,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/YilinLiu97/FasterDIP-devil-in-upsampling
 
 **Towards General Low-Light Raw Noise Synthesis and Modeling**
-- Paper:
+- Paper: https://arxiv.org/abs/2307.16508
 - Code: https://github.com/fengzhang427/LRD
+- Tags: Noise Modeling
 
 **Hybrid Spectral Denoising Transformer with Learnable Query**
 - Paper: https://arxiv.org/abs/2303.09040
@@ -235,7 +239,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Image Stitching
 
 **Parallax-Tolerant Unsupervised Deep Image Stitching**
-- Paper:
+- Paper: https://arxiv.org/abs/2302.08207
 - Code: https://github.com/nie-lang/UDIS2
 
 [[Back-to-Overview](#overview)]
@@ -335,6 +339,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Ablating Concepts in Text-to-Image Diffusion Models**
 - Paper: https://arxiv.org/abs/2303.13516
 - Code: https://github.com/nupurkmr9/concept-ablation
+
+**Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis**
+- Paper:
+- Code: https://github.com/pmh9960/GCDP
 
 ## Image-to-Image / Image Guided
 
