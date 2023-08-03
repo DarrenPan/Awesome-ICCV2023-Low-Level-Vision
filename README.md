@@ -213,8 +213,13 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Image Harmonization/Composition
 
 **Deep Image Harmonization with Learnable Augmentation**
-- Paper:
+- Paper: https://arxiv.org/abs/2308.00376
 - Code: https://github.com/bcmi/SycoNet-Adaptive-Image-Harmonization
+
+**Deep Image Harmonization with Globally Guided Feature Transformation and Relation Distillation**
+- Paper: https://arxiv.org/abs/2308.00356
+- Code: https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony
+
 
 **TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**
 - Paper: https://arxiv.org/abs/2307.12493
@@ -343,6 +348,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis**
 - Paper:
 - Code: https://github.com/pmh9960/GCDP
+
+**HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation**
+- Paper: https://arxiv.org/abs/2304.04269
+- Code: https://github.com/IDEA-Research/HumanSD
 
 ## Image-to-Image / Image Guided
 
