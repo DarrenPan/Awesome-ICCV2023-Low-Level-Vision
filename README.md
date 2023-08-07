@@ -88,7 +88,12 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Fast Full-frame Video Stabilization with Iterative Optimization**
 - Paper: https://arxiv.org/abs/2307.12774
 - Code: https://github.com/zwyking/Fast-Stab
+- Tags: Video Stabilization
 
+**Minimum Latency Deep Online Video Stabilization**
+- Paper: https://arxiv.org/abs/2212.02073
+- Code: https://github.com/liuzhen03/NNDVS
+- Tags: Video Stabilization
 
 <!--
 ## Image Reconstruction
@@ -112,10 +117,6 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2302.13800
 - Code: https://github.com/sunny2109/SAFMN
 
-**Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
-- Paper: https://arxiv.org/abs/2303.08942
-- Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet
-
 **DLGSANet: Lightweight Dynamic Local and Global Self-Attention Network for Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2301.02031
 - Code: https://github.com/NeonLeexiang/DLGSANet
@@ -123,6 +124,19 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Boosting Single Image Super-Resolution via Partial Channel Shifting**
 - Paper: 
 - Code: https://github.com/OwXiaoM/_PCS
+
+**Dual Aggregation Transformer for Image Super-Resolution**
+- Paper:
+- Code: https://github.com/zhengchen1999/DAT
+
+**Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
+- Paper: https://arxiv.org/abs/2303.08942
+- Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet
+
+**Real-CE: A Benchmark for Chinese-English Scene Text Image Super-resolution**
+- Paper:
+- Code: https://github.com/mjq11302010044/Real-CE
+- Tag: Text SR
 
 <!--
 ## Video Super Resolution
@@ -198,6 +212,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 [[Back-to-Overview](#overview)]
 
 # Image Enhancement
+
+**Iterative Prompt Learning for Unsupervised Backlit Image Enhancement**
+- Paper: https://arxiv.org/abs/2303.17569
+- Code: https://github.com/ZhexinLiang/CLIP-LIT
 
 ## Low-Light Image Enhancement
 
@@ -379,6 +397,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2302.04304
 - Code: https://github.com/Xiuyu-Li/q-diffusion
 
+**The Euclidean Space is Evil: Hyperbolic Attribute Editing for Few-shot Image Generation**
+- Paper:
+- Code: https://github.com/lingxiao-li/HAE
+
 ## Video Generation
 
 **Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer**
@@ -414,6 +436,16 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer**
 - Paper: https://arxiv.org/abs/2212.03434
 - Code: https://github.com/ryeocthiv/CQFormer
+
+**Unfolding Framework with Prior of Convolution-Transformer Mixture and Uncertainty Estimation for Video Snapshot Compressive Imaging**
+- Paper: https://arxiv.org/abs/2306.11316
+- Code: https://github.com/zsm1211/CTM-SCI
+- Tags: Snapshot Compressive Imaging
+
+**Deep Optics for Video Snapshot Compressive Imaging**
+- Paper:
+- Code: https://github.com/pwangcs/DeepOpticsSCI
+- Tags: Snapshot Compressive Imaging
 
 ## Talking Head Generation
 
