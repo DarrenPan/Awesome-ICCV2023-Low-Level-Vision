@@ -126,7 +126,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/OwXiaoM/_PCS
 
 **Dual Aggregation Transformer for Image Super-Resolution**
-- Paper:
+- Paper: https://arxiv.org/abs/2308.03364
 - Code: https://github.com/zhengchen1999/DAT
 
 **Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
@@ -134,7 +134,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet
 
 **Real-CE: A Benchmark for Chinese-English Scene Text Image Super-resolution**
-- Paper:
+- Paper: https://arxiv.org/abs/2308.03262
 - Code: https://github.com/mjq11302010044/Real-CE
 - Tag: Text SR
 
@@ -168,6 +168,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.11409
 - Code: https://github.com/YilinLiu97/FasterDIP-devil-in-upsampling
 
+**Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising**
+- Paper: https://arxiv.org/abs/2308.03448
+- Code: https://github.com/Srameo/LED
+
 **Towards General Low-Light Raw Noise Synthesis and Modeling**
 - Paper: https://arxiv.org/abs/2307.16508
 - Code: https://github.com/fengzhang427/LRD
@@ -190,9 +194,17 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 ## Video Deblurring
 
 [[Back-to-Overview](#overview)]
+-->
+
 # Deraining
 
+**From Sky to the Ground: A Large-scale Benchmark and Simple Baseline Towards Real Rain Removal**
+- Paper:
+- Code: https://github.com/yunguo224/LHP-Rain
+
 [[Back-to-Overview](#overview)]
+
+<!--
 # Dehazing
 
 [[Back-to-Overview](#overview)]
@@ -383,6 +395,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **General Image-to-Image Translation with One-Shot Image Guidance**
 - Paper: https://arxiv.org/abs/2307.14352
 - Code: https://github.com/CrystalNeuro/visual-concept-translator
+
+**GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images**
+- Paper: https://arxiv.org/abs/2308.03413
 
 ## Others for image generation
 
