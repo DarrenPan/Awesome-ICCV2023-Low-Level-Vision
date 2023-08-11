@@ -68,6 +68,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.09472
 - Code: https://github.com/Zj-BinXia/DiffIR
 
+**Under-Display Camera Image Restoration with Scattering Effect**
+- Paper: https://arxiv.org/abs/2308.04163
+- Code: https://github.com/NamecantbeNULL/SRUDC
+- Tags: Under-Display Camera
+
 **Multi-weather Image Restoration via Domain Translation**
 - Paper:
 - Code: https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration
@@ -129,6 +134,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.03364
 - Code: https://github.com/zhengchen1999/DAT
 
+**Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2308.05022
+- Code: https://github.com/AVC2-UESTC/CRAFT-SR
+
 **Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
 - Paper: https://arxiv.org/abs/2303.08942
 - Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet
@@ -164,6 +173,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2307.16825
 - Code: https://github.com/p1y2z3/SDAP
 
+**Score Priors Guided Deep Variational Inference for Unsupervised Real-World Single Image Denoising**
+- Paper: https://arxiv.org/abs/2308.04682
+
 **The Devil is in the Upsampling: Architectural Decisions Made Simpler for Denoising with Deep Image Prior**
 - Paper: https://arxiv.org/abs/2304.11409
 - Code: https://github.com/YilinLiu97/FasterDIP-devil-in-upsampling
@@ -177,10 +189,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/fengzhang427/LRD
 - Tags: Noise Modeling
 
-**Hybrid Spectral Denoising Transformer with Learnable Query**
+**Hybrid Spectral Denoising Transformer with Guided Attention**
 - Paper: https://arxiv.org/abs/2303.09040
 - Code: https://github.com/Zeqiang-Lai/HSDT
 - Tags: hyperspectral image denoising
+ 
 
 [[Back-to-Overview](#overview)]
 
@@ -201,6 +214,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **From Sky to the Ground: A Large-scale Benchmark and Simple Baseline Towards Real Rain Removal**
 - Paper:
 - Code: https://github.com/yunguo224/LHP-Rain
+
+**Learning Rain Location Prior for Nighttime Deraining**
+- Paper:
+- Code: https://github.com/zkawfanx/RLP
 
 [[Back-to-Overview](#overview)]
 
@@ -310,6 +327,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Two Birds, One Stone: A Unified Framework for Joint Learning of Image and Video Style Transfers**
 - Paper:
 - Code: https://github.com/NevSNev/UniST
+
+**All-to-key Attention for Arbitrary Style Transfer**
+- Paper:
+- Code: https://github.com/LearningHx/StyA2K
 
 [[Back-to-Overview](#overview)]
 
