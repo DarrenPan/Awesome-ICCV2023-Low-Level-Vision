@@ -138,6 +138,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.05022
 - Code: https://github.com/AVC2-UESTC/CRAFT-SR
 
+**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**
+- Paper:
+- Code: https://github.com/yinzhicun/MetaF2N
+
 **Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
 - Paper: https://arxiv.org/abs/2303.08942
 - Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet
@@ -184,6 +188,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.03448
 - Code: https://github.com/Srameo/LED
 
+**Unsupervised Image Denoising in Real-World Scenarios via Self-Collaboration Parallel Generative Adversarial Branches**
+- Paper: https://arxiv.org/abs/2308.06776
+
 **ExposureDiffusion: Learning to Expose for Low-light Image Enhancement**
 - Paper: https://arxiv.org/abs/2307.07710
 - Code: https://github.com/wyf0912/ExposureDiffusion
@@ -225,17 +232,27 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 [[Back-to-Overview](#overview)]
 
-<!--
 # Dehazing
 
+**Generalizing Event-Based Motion Deblurring in Real-World Scenarios**
+- Paper: https://arxiv.org/abs/2308.05932
+- Tags: Event-Based
+
 [[Back-to-Overview](#overview)]
+
+<!--
 # Demosaicing
 [[Back-to-Overview](#overview)]
+-->
+
 # HDR Imaging / Multi-Exposure Image Fusion
+
+**MEFLUT: Unsupervised 1D Lookup Tables for Multi-exposure Image Fusion**
+- Paper:
+- Code: https://github.com/Hedlen/MEFLUT
 
 [[Back-to-Overview](#overview)]
 
--->
 # Frame Interpolation
 
 **Video Object Segmentation-aware Video Frame Interpolation**
@@ -272,13 +289,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.00356
 - Code: https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony
 
-
 **TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**
 - Paper: https://arxiv.org/abs/2307.12493
 - Code: https://github.com/Shilin-LU/TF-ICON
 
 [[Back-to-Overview](#overview)]
-
 
 # Image Completion/Inpainting
 
@@ -425,6 +440,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images**
 - Paper: https://arxiv.org/abs/2308.03413
 
+**Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation**
+- Paper:
+- Code: https://github.com/Yuxinn-J/Scenimefy
+
 ## Others for image generation
 
 **Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration**
@@ -441,6 +460,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **The Euclidean Space is Evil: Hyperbolic Attribute Editing for Few-shot Image Generation**
 - Paper:
 - Code: https://github.com/lingxiao-li/HAE
+
+**LFS-GAN: Lifelong Few-Shot Image Generation**
+- Paper:
+- Code: https://github.com/JJuOn/LFS-GAN
 
 ## Video Generation
 
@@ -459,6 +482,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**
 - Paper: https://arxiv.org/abs/2303.09535
 - Code: https://github.com/ChenyangQiQi/FateZero
+
+**RIGID: Recurrent GAN Inversion and Editing of Real Face Videos**
+- Paper: https://arxiv.org/abs/2308.06097
 
 [[Back-to-Overview](#overview)]
 
