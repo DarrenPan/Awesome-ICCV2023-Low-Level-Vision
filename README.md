@@ -277,6 +277,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.11722
 - Code: https://github.com/Ysz2022/NeRCo
 
+**Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network**
+- Paper:
+- Code: https://arxiv.org/abs/2308.08220
+
 [[Back-to-Overview](#overview)]
 
 # Image Harmonization/Composition
@@ -316,12 +320,14 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 [[Back-to-Overview](#overview)]
 
-<!--
+
 # Image Compression
 
-[[Back-to-Overview](#overview)]
--->
+**RFD-ECNet: Extreme Underwater Image Compression with Reference to Feature Dictionary**
+- Paper:
+- Code: https://github.com/lilala0/RFD-ECNet
 
+[[Back-to-Overview](#overview)]
 
 # Image Quality Assessment
 
@@ -351,6 +357,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **All-to-key Attention for Arbitrary Style Transfer**
 - Paper:
 - Code: https://github.com/LearningHx/StyA2K
+
+**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**
+- Paper: https://arxiv.org/abs/2308.07863
 
 [[Back-to-Overview](#overview)]
 
@@ -417,12 +426,15 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/nupurkmr9/concept-ablation
 
 **Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis**
-- Paper:
+- Paper: https://arxiv.org/abs/2308.08157
 - Code: https://github.com/pmh9960/GCDP
 
 **HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation**
 - Paper: https://arxiv.org/abs/2304.04269
 - Code: https://github.com/IDEA-Research/HumanSD
+
+**Story Visualization by Online Text Augmentation with Context Memory**
+- Paper: https://arxiv.org/abs/2308.07575
 
 ## Image-to-Image / Image Guided
 
@@ -464,6 +476,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **LFS-GAN: Lifelong Few-Shot Image Generation**
 - Paper:
 - Code: https://github.com/JJuOn/LFS-GAN
+
+**FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**
+- Paper: https://arxiv.org/abs/2303.09833
+- Code: https://github.com/vvictoryuki/FreeDoM
 
 ## Video Generation
 
