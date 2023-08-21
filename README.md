@@ -90,6 +90,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 ## Video Restoration
 
+**Snow Removal in Video: A New Dataset and A Novel Method**
+- Paper:
+- Code: https://github.com/haoyuc/VideoDesnowing
+- Tags: Desnowing
+
 **Fast Full-frame Video Stabilization with Iterative Optimization**
 - Paper: https://arxiv.org/abs/2307.12774
 - Code: https://github.com/zwyking/Fast-Stab
@@ -142,6 +147,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/yinzhicun/MetaF2N
 
+**Lightweight Image Super-Resolution with Superpixel Token Interaction**
+- Paper:
+- Code: https://github.com/ArcticHare105/SPIN
+
 **Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
 - Paper: https://arxiv.org/abs/2303.08942
 - Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet
@@ -150,6 +159,12 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.03262
 - Code: https://github.com/mjq11302010044/Real-CE
 - Tag: Text SR
+
+## Burst Super Resolution
+
+**Towards Real-World Burst Image Super-Resolution: Benchmark and Method**
+- Paper:
+- Code: https://github.com/yjsunnn/FBANet
 
 <!--
 ## Video Super Resolution
@@ -250,6 +265,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **MEFLUT: Unsupervised 1D Lookup Tables for Multi-exposure Image Fusion**
 - Paper:
 - Code: https://github.com/Hedlen/MEFLUT
+
+**RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image**
+- Paper:
+- Code: https://github.com/jackzou233/RawHDR
 
 [[Back-to-Overview](#overview)]
 
@@ -502,6 +521,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **RIGID: Recurrent GAN Inversion and Editing of Real Face Videos**
 - Paper: https://arxiv.org/abs/2308.06097
 
+**StableVideo: Text-driven Consistency-aware Diffusion Video Editing**
+- Paper: https://arxiv.org/abs/2308.09592
+- Code: https://github.com/rese1f/StableVideo
+
 [[Back-to-Overview](#overview)]
 
 ## Others [[back](#catalogue)]
@@ -529,6 +552,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/pwangcs/DeepOpticsSCI
 - Tags: Snapshot Compressive Imaging
+
+**SimFIR: A Simple Framework for Fisheye Image Rectification with Self-supervised Representation Learning**
+- Paper: https://arxiv.org/abs/2308.09040
+- Tags: Fisheye Image Rectification
 
 ## Talking Head Generation
 
