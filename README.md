@@ -87,6 +87,15 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/VITA-Group/PiRN
 - Tags: Turbulence Image
 
+**DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration**
+- Paper:
+- Code: https://github.com/miaoyuchun/DDS2M
+
+## Image Reconstruction
+
+**Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction**
+- Paper: https://arxiv.org/abs/2308.10820
+- Code: https://github.com/MyuLi/PADUT
 
 ## Video Restoration
 
@@ -106,7 +115,6 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Video Stabilization
 
 <!--
-## Image Reconstruction
 ## Burst Restoration 
 -->
 
@@ -150,6 +158,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Lightweight Image Super-Resolution with Superpixel Token Interaction**
 - Paper:
 - Code: https://github.com/ArcticHare105/SPIN
+
+**Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2211.13654
+- Code: https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR
 
 **Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
 - Paper: https://arxiv.org/abs/2303.08942
@@ -269,6 +281,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image**
 - Paper:
 - Code: https://github.com/jackzou233/RawHDR
+
+**LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction**
+- Paper: https://arxiv.org/abs/2308.11116
 
 [[Back-to-Overview](#overview)]
 
@@ -455,6 +470,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Story Visualization by Online Text Augmentation with Context Memory**
 - Paper: https://arxiv.org/abs/2308.07575
 
+**DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**
+- Paper: https://arxiv.org/abs/2308.11206
+
 ## Image-to-Image / Image Guided
 
 **Reinforced Disentanglement for Face Swapping without Skip Connection**
@@ -499,6 +517,12 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**
 - Paper: https://arxiv.org/abs/2303.09833
 - Code: https://github.com/vvictoryuki/FreeDoM
+
+**Improving Diversity in Zero-Shot GAN Adaptation with Semantic Variations**
+- Paper: https://arxiv.org/abs/2308.10554
+
+**Smoothness Similarity Regularization for Few-Shot GAN Adaptation**
+- Paper: https://arxiv.org/abs/2308.09717
 
 ## Video Generation
 
@@ -556,6 +580,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **SimFIR: A Simple Framework for Fisheye Image Rectification with Self-supervised Representation Learning**
 - Paper: https://arxiv.org/abs/2308.09040
 - Tags: Fisheye Image Rectification
+
+**Single Image Reflection Separation via Component Synergy**
+- Paper: https://arxiv.org/abs/2308.10027
+- Code: https://github.com/mingcv/DSRNet
+- Tag: Image Reflection Separation
 
 ## Talking Head Generation
 
