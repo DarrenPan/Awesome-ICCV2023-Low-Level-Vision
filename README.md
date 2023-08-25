@@ -88,7 +88,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Turbulence Image
 
 **DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration**
-- Paper:
+- Paper: https://arxiv.org/abs/2303.06682
 - Code: https://github.com/miaoyuchun/DDS2M
 
 ## Image Reconstruction
@@ -103,6 +103,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/haoyuc/VideoDesnowing
 - Tags: Desnowing
+
+**Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation**
+- Paper:
+- Code: https://github.com/scott-yjyang/ViWS-Net
 
 **Fast Full-frame Video Stabilization with Iterative Optimization**
 - Paper: https://arxiv.org/abs/2307.12774
@@ -473,6 +477,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**
 - Paper: https://arxiv.org/abs/2308.11206
 
+**Dense Text-to-Image Generation with Attention Modulation**
+- Paper: https://arxiv.org/abs/2308.12964
+
 ## Image-to-Image / Image Guided
 
 **Reinforced Disentanglement for Face Swapping without Skip Connection**
@@ -490,7 +497,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.03413
 
 **Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation**
-- Paper:
+- Paper: https://arxiv.org/abs/2308.12968
 - Code: https://github.com/Yuxinn-J/Scenimefy
 
 ## Others for image generation
@@ -511,7 +518,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/lingxiao-li/HAE
 
 **LFS-GAN: Lifelong Few-Shot Image Generation**
-- Paper:
+- Paper: https://arxiv.org/abs/2308.11917
 - Code: https://github.com/JJuOn/LFS-GAN
 
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**
