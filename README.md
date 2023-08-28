@@ -319,6 +319,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper:
 - Code: https://arxiv.org/abs/2308.08220
 
+**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**
+- Paper: https://arxiv.org/abs/2308.13164
+
 [[Back-to-Overview](#overview)]
 
 # Image Harmonization/Composition
@@ -499,6 +502,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation**
 - Paper: https://arxiv.org/abs/2308.12968
 - Code: https://github.com/Yuxinn-J/Scenimefy
+
+**Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance**
+- Paper: https://arxiv.org/abs/2210.05559
+- Code: https://github.com/ChenWu98/cycle-diffusion
 
 ## Others for image generation
 
