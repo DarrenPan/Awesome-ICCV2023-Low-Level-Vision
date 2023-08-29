@@ -261,9 +261,16 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/zkawfanx/RLP
 
+**Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks**
+- Paper: https://arxiv.org/abs/2308.14153
+
 [[Back-to-Overview](#overview)]
 
 # Dehazing
+
+**MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing**
+- Paper: https://arxiv.org/abs/2308.14036
+- Code: https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer
 
 **Generalizing Event-Based Motion Deblurring in Real-World Scenarios**
 - Paper: https://arxiv.org/abs/2308.05932
@@ -563,6 +570,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.09592
 - Code: https://github.com/rese1f/StableVideo
 
+**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**
+- Paper: https://johann.wang/uploads/iccv2023_styleinv.pdf
+- Code: https://github.com/johannwyh/StyleInV
+
 [[Back-to-Overview](#overview)]
 
 ## Others [[back](#catalogue)]
@@ -593,6 +604,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 **SimFIR: A Simple Framework for Fisheye Image Rectification with Self-supervised Representation Learning**
 - Paper: https://arxiv.org/abs/2308.09040
+- Code: https://github.com/fh2019ustc/SimFIR
 - Tags: Fisheye Image Rectification
 
 **Single Image Reflection Separation via Component Synergy**
