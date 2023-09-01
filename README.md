@@ -82,6 +82,16 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2307.08996
 - Tags: Authentic Face Restoration, Diffusion
 
+**Improving Lens Flare Removal with General Purpose Pipeline and Multiple Light Sources Recovery**
+- Paper: https://arxiv.org/abs/2308.16460
+- Code: https://github.com/YuyanZhou1/Improving-Lens-Flare-Removal
+- Tags: Flare Removal 
+
+**High-Resolution Document Shadow Removal via A Large-Scale Real-World Dataset and A Frequency-Aware Shadow Erasing Net**
+- Paper: https://arxiv.org/abs/2308.14221
+- Code: https://github.com/CXH-Research/DocShadow-SD7K
+- Tags: Document Shadow Removal
+
 **Physics-Driven Turbulence Image Restoration with Stochastic Refinement**
 - Paper: https://arxiv.org/abs/2307.10603
 - Code: https://github.com/VITA-Group/PiRN
@@ -571,7 +581,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/rese1f/StableVideo
 
 **StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**
-- Paper: https://johann.wang/uploads/iccv2023_styleinv.pdf
+- Paper: https://arxiv.org/abs/2308.16909
 - Code: https://github.com/johannwyh/StyleInV
 
 [[Back-to-Overview](#overview)]
@@ -611,6 +621,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.10027
 - Code: https://github.com/mingcv/DSRNet
 - Tag: Image Reflection Separation
+
+**Learned Image Reasoning Prior Penetrates Deep Unfolding Network for Panchromatic and Multi-Spectral Image Fusion**
+- Paper: https://arxiv.org/abs/2308.16083
+- Tags: pan-sharpening
 
 ## Talking Head Generation
 
