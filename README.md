@@ -236,6 +236,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2307.07710
 - Code: https://github.com/wyf0912/ExposureDiffusion
 
+**Self-supervised Image Denoising with Downsampled Invariance Loss and Conditional Blind-Spot Network**
+- Paper: https://arxiv.org/abs/2304.09507
+- Code: https://github.com/jyicu/CBSN
+
 **Towards General Low-Light Raw Noise Synthesis and Modeling**
 - Paper: https://arxiv.org/abs/2307.16508
 - Code: https://github.com/fengzhang427/LRD
@@ -273,6 +277,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 **Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks**
 - Paper: https://arxiv.org/abs/2308.14153
+- Code: https://github.com/Ephemeral182/UDR-S2Former_deraining
 
 [[Back-to-Overview](#overview)]
 
@@ -300,7 +305,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/Hedlen/MEFLUT
 
 **RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image**
-- Paper:
+- Paper: https://arxiv.org/abs/2309.02020
 - Code: https://github.com/jackzou233/RawHDR
 
 **LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction**
@@ -361,6 +366,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 **Diverse Inpainting and Editing with GAN Inversion**
 - Paper: https://arxiv.org/abs/2307.15033
+
+**ProPainter: Improving Propagation and Transformer for Video Inpainting**
+- Paper:
+- Code: https://github.com/sczhou/ProPainter
 
 [[Back-to-Overview](#overview)]
 
@@ -632,10 +641,13 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2307.09906
 - Code: https://github.com/harlanhong/ICCV2023-MCNET
 
+## Handwriting/Font Generation
+
+**Few shot font generation via transferring similarity guided global style and quantization local style**
+- Paper: https://arxiv.org/abs/2309.00827
+- Code: https://github.com/awei669/VQ-Font
 
 <!--
 ## Virtual Try-on
-
-## Handwriting/Font Generation
 -->
 
