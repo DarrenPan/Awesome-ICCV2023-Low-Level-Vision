@@ -189,7 +189,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 ## Burst Super Resolution
 
 **Towards Real-World Burst Image Super-Resolution: Benchmark and Method**
-- Paper:
+- Paper: https://arxiv.org/abs/2309.04803
 - Code: https://github.com/yjsunnn/FBANet
 
 <!--
@@ -239,6 +239,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Self-supervised Image Denoising with Downsampled Invariance Loss and Conditional Blind-Spot Network**
 - Paper: https://arxiv.org/abs/2304.09507
 - Code: https://github.com/jyicu/CBSN
+
+**Multi-view Self-supervised Disentanglement for General Image Denoising**
+- Paper: https://arxiv.org/abs/2309.05049
 
 **Towards General Low-Light Raw Noise Synthesis and Modeling**
 - Paper: https://arxiv.org/abs/2307.16508
@@ -308,8 +311,13 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2309.02020
 - Code: https://github.com/jackzou233/RawHDR
 
+**Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction** 
+- Paper: https://arxiv.org/abs/2309.03900
+
 **LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction**
 - Paper: https://arxiv.org/abs/2308.11116
+
+
 
 [[Back-to-Overview](#overview)]
 
@@ -368,7 +376,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2307.15033
 
 **ProPainter: Improving Propagation and Transformer for Video Inpainting**
-- Paper:
+- Paper: https://arxiv.org/abs/2309.03897
 - Code: https://github.com/sczhou/ProPainter
 
 [[Back-to-Overview](#overview)]
@@ -398,7 +406,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 # Image Quality Assessment
 
-**Delegate Transformer for Image Color Aesthetics Assessment**
+**Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks**
 - Paper:
 - Code: https://github.com/woshidandan/Image-Color-Aesthetics-Assessment/tree/main
 
@@ -459,6 +467,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Diverse Inpainting and Editing with GAN Inversion**
 - Paper: https://arxiv.org/abs/2307.15033
 
+**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion**
+- Paper: https://arxiv.org/abs/2309.04907
+
 [[Back-to-Overview](#overview)]
 
 # Image Generation/Synthesis / Image-to-Image Translation
@@ -508,6 +519,12 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 **Dense Text-to-Image Generation with Attention Modulation**
 - Paper: https://arxiv.org/abs/2308.12964
+- Code: https://github.com/naver-ai/DenseDiffusion``
+
+**ITI-GEN: Inclusive Text-to-Image Generation**
+- Paper: https://arxiv.org/abs/2309.05569
+- Project: https://czhang0528.github.io/iti-gen
+
 
 ## Image-to-Image / Image Guided
 
@@ -529,7 +546,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.12968
 - Code: https://github.com/Yuxinn-J/Scenimefy
 
-**Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance**
+**A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance**
 - Paper: https://arxiv.org/abs/2210.05559
 - Code: https://github.com/ChenWu98/cycle-diffusion
 
@@ -593,6 +610,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.16909
 - Code: https://github.com/johannwyh/StyleInV
 
+**The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion**
+- Paper: https://arxiv.org/abs/2309.04509
+- Project: https://ku-vai.github.io/TPoS/
+
 [[Back-to-Overview](#overview)]
 
 ## Others [[back](#catalogue)]
@@ -640,6 +661,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation**
 - Paper: https://arxiv.org/abs/2307.09906
 - Code: https://github.com/harlanhong/ICCV2023-MCNET
+
+**Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation**
+- Paper: https://arxiv.org/abs/2309.04946
+- Code: https://github.com/yuangan/EAT_code
 
 ## Handwriting/Font Generation
 
