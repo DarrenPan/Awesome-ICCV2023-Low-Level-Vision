@@ -166,7 +166,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/AVC2-UESTC/CRAFT-SR
 
 **MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**
-- Paper:
+- Paper: https://arxiv.org/abs/2309.08113
 - Code: https://github.com/yinzhicun/MetaF2N
 
 **Lightweight Image Super-Resolution with Superpixel Token Interaction**
@@ -402,6 +402,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/lilala0/RFD-ECNet
 
+**COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability**
+- Paper: https://arxiv.org/abs/2309.07926
+ 
+
 [[Back-to-Overview](#overview)]
 
 # Image Quality Assessment
@@ -426,7 +430,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/Kibeom-Hong/AesPA-Net
 
 **Two Birds, One Stone: A Unified Framework for Joint Learning of Image and Video Style Transfers**
-- Paper:
+- Paper: https://arxiv.org/abs/2304.11335
 - Code: https://github.com/NevSNev/UniST
 
 **All-to-key Attention for Arbitrary Style Transfer**
@@ -435,6 +439,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**
 - Paper: https://arxiv.org/abs/2308.07863
+
+**StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**
+- Paper: https://arxiv.org/abs/2303.09268
+- Code: https://github.com/zipengxuc/StylerDALLE
 
 [[Back-to-Overview](#overview)]
 
