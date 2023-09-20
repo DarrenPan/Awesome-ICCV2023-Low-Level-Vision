@@ -67,6 +67,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **DiffIR: Efficient Diffusion Model for Image Restoration**
 - Paper: https://arxiv.org/abs/2303.09472
 - Code: https://github.com/Zj-BinXia/DiffIR
+- Tags: Diffusion
+
+**PIRNet: Privacy-Preserving Image Restoration Network via Wavelet Lifting**
+- Paper:
+- Code: https://github.com/gclonghorn/PIRNet
 
 **Under-Display Camera Image Restoration with Scattering Effect**
 - Paper: https://arxiv.org/abs/2308.04163
