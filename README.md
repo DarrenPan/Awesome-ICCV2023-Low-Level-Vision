@@ -309,7 +309,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # HDR Imaging / Multi-Exposure Image Fusion
 
 **MEFLUT: Unsupervised 1D Lookup Tables for Multi-exposure Image Fusion**
-- Paper:
+- Paper: https://arxiv.org/abs/2309.11847
 - Code: https://github.com/Hedlen/MEFLUT
 
 **RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image**
@@ -322,7 +322,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction**
 - Paper: https://arxiv.org/abs/2308.11116
 
-
+**Joint Demosaicing and Deghosting of Time-Varying Exposures for Single-Shot HDR Imaging**
+- Paper: https://vclab.kaist.ac.kr/iccv2023/iccv2023-single-shot-hdr-imaging.pdf
+- Code: https://github.com/KAIST-VCLAB/singshot-hdr-demosaicing
 
 [[Back-to-Overview](#overview)]
 
@@ -351,11 +353,15 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/Ysz2022/NeRCo
 
 **Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network**
-- Paper:
+- Paper: 
 - Code: https://arxiv.org/abs/2308.08220
 
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**
 - Paper: https://arxiv.org/abs/2308.13164
+
+**Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement**
+- Paper: https://arxiv.org/abs/2303.06705
+- Code: https://github.com/caiyuanhao1998/Retinexformer
 
 [[Back-to-Overview](#overview)]
 
@@ -593,6 +599,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 **Smoothness Similarity Regularization for Few-Shot GAN Adaptation**
 - Paper: https://arxiv.org/abs/2308.09717
+
+**UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation**
+- Paper: https://arxiv.org/abs/2309.14335
+- Code: https://github.com/UnitedHuman/UnitedHuman
 
 ## Video Generation
 
