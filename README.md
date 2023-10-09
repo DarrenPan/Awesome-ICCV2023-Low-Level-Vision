@@ -70,18 +70,33 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Diffusion
 
 **PIRNet: Privacy-Preserving Image Restoration Network via Wavelet Lifting**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Deng_PIRNet_Privacy-Preserving_Image_Restoration_Network_via_Wavelet_Lifting_ICCV_2023_paper.html
 - Code: https://github.com/gclonghorn/PIRNet
+
+**Focal Network for Image Restoration**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Cui_Focal_Network_for_Image_Restoration_ICCV_2023_paper.html
+- Code: https://github.com/c-yn/FocalNet
+
+**Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**
+- Paper: https://arxiv.org/abs/2306.06513
 
 **Under-Display Camera Image Restoration with Scattering Effect**
 - Paper: https://arxiv.org/abs/2308.04163
 - Code: https://github.com/NamecantbeNULL/SRUDC
 - Tags: Under-Display Camera
 
+**FSI: Frequency and Spatial Interactive Learning for Image Restoration in Under-Display Cameras**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_FSI_Frequency_and_Spatial_Interactive_Learning_for_Image_Restoration_in_ICCV_2023_paper.html
+- Tags: Under-Display Camera
+
 **Multi-weather Image Restoration via Domain Translation**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Patil_Multi-weather_Image_Restoration_via_Domain_Translation_ICCV_2023_paper.html
 - Code: https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration
 - Tags: Multi-weather
+
+**Adverse Weather Removal with Codebook Priors**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html
+- Tags: Adverse Weather Removal
 
 **Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond**
 - Paper: https://arxiv.org/abs/2307.08996
@@ -97,14 +112,40 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/CXH-Research/DocShadow-SD7K
 - Tags: Document Shadow Removal
 
+**Boundary-Aware Divide and Conquer: A Diffusion-Based Solution for Unsupervised Shadow Removal**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Boundary-Aware_Divide_and_Conquer_A_Diffusion-Based_Solution_for_Unsupervised_Shadow_ICCV_2023_paper.html
+- Tags: Shadow Removal
+
+**Leveraging Inpainting for Single-Image Shadow Removal**
+- Paper: https://arxiv.org/abs/2302.05361
+- Tags: Shadow Removal
+
+**Fine-grained Visible Watermark Removal**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Niu_Fine-grained_Visible_Watermark_Removal_ICCV_2023_paper.html
+- Tags: Watermark Removal
+
 **Physics-Driven Turbulence Image Restoration with Stochastic Refinement**
 - Paper: https://arxiv.org/abs/2307.10603
 - Code: https://github.com/VITA-Group/PiRN
 - Tags: Turbulence Image
 
+**Building Bridge Across the Time: Disruption and Restoration of Murals In the Wild**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Shao_Building_Bridge_Across_the_Time_Disruption_and_Restoration_of_Murals_ICCV_2023_paper.html
+- Code: https://github.com/Shaocr/Building-Bridge-Across-the-Time-Disruption-and-Restoration-of-Murals-In-the-Wild
+- Tags: Murals Restoration
+
 **DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration**
 - Paper: https://arxiv.org/abs/2303.06682
 - Code: https://github.com/miaoyuchun/DDS2M
+- Tags: Diffusion, Hyperspectral
+
+**Fingerprinting Deep Image Restoration Models**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Quan_Fingerprinting_Deep_Image_Restoration_Models_ICCV_2023_paper.html
+
+**Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Varghese_Self-supervised_Monocular_Underwater_Depth_Recovery_Image_Restoration_and_a_Real-sea_ICCV_2023_paper.html
+- Code: https://github.com/nishavarghese15/DRUVA
+
 
 ## Image Reconstruction
 
@@ -115,12 +156,12 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 ## Video Restoration
 
 **Snow Removal in Video: A New Dataset and A Novel Method**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Snow_Removal_in_Video_A_New_Dataset_and_A_Novel_ICCV_2023_paper.html
 - Code: https://github.com/haoyuc/VideoDesnowing
 - Tags: Desnowing
 
 **Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation**
-- Paper:
+- Paper: https://arxiv.org/abs/2309.13700
 - Code: https://github.com/scott-yjyang/ViWS-Net
 
 **Fast Full-frame Video Stabilization with Iterative Optimization**
@@ -133,9 +174,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/liuzhen03/NNDVS
 - Tags: Video Stabilization
 
-<!--
-## Burst Restoration 
--->
+**Task Agnostic Restoration of Natural Video Dynamics**
+- Paper: https://arxiv.org/abs/2206.03753
+- Code: https://github.com/MKashifAli/TARONVD
+
+
 
 [[Back-to-Overview](#overview)]
 
