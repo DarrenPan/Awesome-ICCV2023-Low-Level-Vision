@@ -146,7 +146,6 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Varghese_Self-supervised_Monocular_Underwater_Depth_Recovery_Image_Restoration_and_a_Real-sea_ICCV_2023_paper.html
 - Code: https://github.com/nishavarghese15/DRUVA
 
-
 ## Image Reconstruction
 
 **Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction**
@@ -178,8 +177,6 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2206.03753
 - Code: https://github.com/MKashifAli/TARONVD
 
-
-
 [[Back-to-Overview](#overview)]
 
 # Super Resolution
@@ -193,56 +190,121 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.09735 
 - Code: https://github.com/HVision-NKU/SRFormer
 
-**Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution**
-- Paper: https://arxiv.org/abs/2302.13800
-- Code: https://github.com/sunny2109/SAFMN
-
 **DLGSANet: Lightweight Dynamic Local and Global Self-Attention Network for Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2301.02031
 - Code: https://github.com/NeonLeexiang/DLGSANet
-
-**Boosting Single Image Super-Resolution via Partial Channel Shifting**
-- Paper: 
-- Code: https://github.com/OwXiaoM/_PCS
 
 **Dual Aggregation Transformer for Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2308.03364
 - Code: https://github.com/zhengchen1999/DAT
 
+**MSRA-SR: Image Super-resolution Transformer with Multi-scale Shared Representation Acquisition**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_MSRA-SR_Image_Super-resolution_Transformer_with_Multi-scale_Shared_Representation_Acquisition_ICCV_2023_paper.html
+
+**Content-Aware Local GAN for Photo-Realistic Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Park_Content-Aware_Local_GAN_for_Photo-Realistic_Super-Resolution_ICCV_2023_paper.html
+- Code: https://github.com/jkpark0825/CAL
+- Tags: GAN
+
+**Boosting Single Image Super-Resolution via Partial Channel Shifting**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Boosting_Single_Image_Super-Resolution_via_Partial_Channel_Shifting_ICCV_2023_paper.html
+- Code: https://github.com/OwXiaoM/_PCS
+
 **Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2308.05022
 - Code: https://github.com/AVC2-UESTC/CRAFT-SR
 
-**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**
-- Paper: https://arxiv.org/abs/2309.08113
-- Code: https://github.com/yinzhicun/MetaF2N
+**Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2302.13800
+- Code: https://github.com/sunny2109/SAFMN
+- Tags: Efficient
 
 **Lightweight Image Super-Resolution with Superpixel Token Interaction**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Lightweight_Image_Super-Resolution_with_Superpixel_Token_Interaction_ICCV_2023_paper.html
 - Code: https://github.com/ArcticHare105/SPIN
+- Tags: Lightweight
+
+**Reconstructed Convolution Module Based Look-Up Tables for Efficient Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2307.08544
+- Code: https://github.com/liuguandu/RC-LUT
+- Tags: Efficient
 
 **Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2211.13654
 - Code: https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR
+- Tags: Efficient
+- 
+**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**
+- Paper: https://arxiv.org/abs/2309.08113
+- Code: https://github.com/yinzhicun/MetaF2N
+- Tags: Blind
 
-**Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
-- Paper: https://arxiv.org/abs/2303.08942
-- Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet
+**Learning Correction Filter via Degradation-Adaptive Regression for Blind Single Image Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Learning_Correction_Filter_via_Degradation-Adaptive_Regression_for_Blind_Single_Image_ICCV_2023_paper.html
+- Code: https://github.com/edbca/DARSR
+- Tags: Blind
+
+**LMR: A Large-Scale Multi-Reference Dataset for Reference-Based Super-Resolution**
+- Paper: https://arxiv.org/abs/2303.04970
+- Tags: Reference-Based 
 
 **Real-CE: A Benchmark for Chinese-English Scene Text Image Super-resolution**
 - Paper: https://arxiv.org/abs/2308.03262
 - Code: https://github.com/mjq11302010044/Real-CE
-- Tag: Text SR
+- Tags: Text SR
+
+**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2302.08058
+- Code: https://github.com/ZhengyuLiang24/EPIT
+- Tags: Light Field
+
+**Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**
+- Paper: https://arxiv.org/abs/2303.08942
+- Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet
+- Tags: Depth Map
+
+**HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.html
+- Tags: Hyperspectral, Diffusion
+
+**ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution**
+- Paper: https://arxiv.org/abs/2307.14010
+- Code: https://github.com/Rexzhan/ESSAformer
+- Tags: Hyperspectral
+
+**Rethinking Multi-Contrast MRI Super-Resolution: Rectangle-Window Cross-Attention Transformer and Arbitrary-Scale Upsampling**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Li_Rethinking_Multi-Contrast_MRI_Super-Resolution_Rectangle-Window_Cross-Attention_Transformer_and_Arbitrary-Scale_Upsampling_ICCV_2023_paper.html
+- Tags: MRI
+
+**Decomposition-Based Variational Network for Multi-Contrast MRI Super-Resolution and Reconstruction**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Lei_Decomposition-Based_Variational_Network_for_Multi-Contrast_MRI_Super-Resolution_and_Reconstruction_ICCV_2023_paper.html
+- Code: https://github.com/lpcccc-cv/MC-VarNet
+- Tags: MRI
+
+**CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
+- Paper: https://arxiv.org/abs/2303.16242
+- Code: https://github.com/NarcissusEx/CuNeRF
+- Tags: Medical, NeRF
 
 ## Burst Super Resolution
 
 **Towards Real-World Burst Image Super-Resolution: Benchmark and Method**
 - Paper: https://arxiv.org/abs/2309.04803
 - Code: https://github.com/yjsunnn/FBANet
+- Tag: Real-World
 
-<!--
+**Self-Supervised Burst Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Bhat_Self-Supervised_Burst_Super-Resolution_ICCV_2023_paper.html
+- Tags: Self-Supervised
+
 ## Video Super Resolution
--->
+
+**Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**
+- Paper: https://arxiv.org/abs/2303.09826
+- Code: https://github.com/researchmm/VQD-SR
+
+**Multi-Frequency Representation Enhancement with Privilege Information for Video Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Li_Multi-Frequency_Representation_Enhancement_with_Privilege_Information_for_Video_Super-Resolution_ICCV_2023_paper.html
 
 ## Spatial-Temporal Video Super-Resolution
 
