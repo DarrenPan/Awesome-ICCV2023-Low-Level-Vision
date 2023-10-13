@@ -35,6 +35,8 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 - [Dehazing](#dehazing)
 
+- [Demosaicing](#demosaicing)
+
 - [HDR Imaging / Multi-Exposure Image Fusion](#hdr-imaging--multi-exposure-image-fusion)
 
 - [Frame Interpolation](#frame-interpolation)
@@ -233,7 +235,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2211.13654
 - Code: https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR
 - Tags: Efficient
-- 
+  
 **MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**
 - Paper: https://arxiv.org/abs/2309.08113
 - Code: https://github.com/yinzhicun/MetaF2N
@@ -375,11 +377,8 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.09040
 - Code: https://github.com/Zeqiang-Lai/HSDT
 - Tags: hyperspectral image denoising
- 
 
 [[Back-to-Overview](#overview)]
-
-
 
 # Deblurring
 ## Image Deblurring
@@ -415,16 +414,19 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Deraining
 
 **From Sky to the Ground: A Large-scale Benchmark and Simple Baseline Towards Real Rain Removal**
-- Paper:
+- Paper: https://arxiv.org/abs/2308.03867
 - Code: https://github.com/yunguo224/LHP-Rain
 
 **Learning Rain Location Prior for Nighttime Deraining**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Learning_Rain_Location_Prior_for_Nighttime_Deraining_ICCV_2023_paper.html
 - Code: https://github.com/zkawfanx/RLP
 
 **Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks**
 - Paper: https://arxiv.org/abs/2308.14153
 - Code: https://github.com/Ephemeral182/UDR-S2Former_deraining
+
+**Unsupervised Video Deraining with An Event Camera**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Unsupervised_Video_Deraining_with_An_Event_Camera_ICCV_2023_paper.html
 
 [[Back-to-Overview](#overview)]
 
@@ -434,16 +436,14 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.14036
 - Code: https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer
 
-**Generalizing Event-Based Motion Deblurring in Real-World Scenarios**
-- Paper: https://arxiv.org/abs/2308.05932
-- Tags: Event-Based
-
 [[Back-to-Overview](#overview)]
 
-<!--
 # Demosaicing
+
+**Efficient Unified Demosaicing for Bayer and Non-Bayer Patterned Image Sensors**
+- Paper: https://arxiv.org/abs/2307.10667
+
 [[Back-to-Overview](#overview)]
--->
 
 # HDR Imaging / Multi-Exposure Image Fusion
 
@@ -470,8 +470,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Frame Interpolation
 
 **Video Object Segmentation-aware Video Frame Interpolation**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Yoo_Video_Object_Segmentation-aware_Video_Frame_Interpolation_ICCV_2023_paper.html
 - Code: https://github.com/junsang7777/VOS-VFI
+
+**Rethinking Video Frame Interpolation from Shutter Mode Induced Degradation**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Rethinking_Video_Frame_Interpolation_from_Shutter_Mode_Induced_Degradation_ICCV_2023_paper.html
 
 [[Back-to-Overview](#overview)]
 
