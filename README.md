@@ -48,7 +48,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 - [Image Completion/Inpainting](#image-completioninpainting)
 
-- [Image Matting](#image-matting)
+- [Image Stitching](#image-stitching)
 
 - [Image Compression](#image-compression)
 
@@ -553,17 +553,33 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Diverse Inpainting and Editing with GAN Inversion**
 - Paper: https://arxiv.org/abs/2307.15033
 
+**Rethinking Fast Fourier Convolution in Image Inpainting**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Chu_Rethinking_Fast_Fourier_Convolution_in_Image_Inpainting_ICCV_2023_paper.html
+
+**Continuously Masked Transformer for Image Inpainting**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Ko_Continuously_Masked_Transformer_for_Image_Inpainting_ICCV_2023_paper.html
+- Code: https://github.com/keunsoo-ko/CMT
+
+**MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Sargsyan_MI-GAN_A_Simple_Baseline_for_Image_Inpainting_on_Mobile_Devices_ICCV_2023_paper.html
+- Code: https://github.com/Picsart-AI-Research/MI-GAN
+
+**PATMAT: Person Aware Tuning of Mask-Aware Transformer for Face Inpainting**
+- Paper: https://arxiv.org/abs/2304.06107
+- Code: https://github.com/humansensinglab/PATMAT
+
 **ProPainter: Improving Propagation and Transformer for Video Inpainting**
 - Paper: https://arxiv.org/abs/2309.03897
 - Code: https://github.com/sczhou/ProPainter
 
-[[Back-to-Overview](#overview)]
+**Semantic-Aware Dynamic Parameter for Video Inpainting Transformer**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Lee_Semantic-Aware_Dynamic_Parameter_for_Video_Inpainting_Transformer_ICCV_2023_paper.html
 
-<!--
-# Image Matting
+**CIRI: Curricular Inactivation for Residue-aware One-shot Video Inpainting**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zheng_CIRI_Curricular_Inactivation_for_Residue-aware_One-shot_Video_Inpainting_ICCV_2023_paper.html
+- Code: https://github.com/Arise-zwy/CIRI
 
 [[Back-to-Overview](#overview)]
--->
 
 # Image Stitching
 
@@ -572,7 +588,6 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/nie-lang/UDIS2
 
 [[Back-to-Overview](#overview)]
-
 
 # Image Compression
 
