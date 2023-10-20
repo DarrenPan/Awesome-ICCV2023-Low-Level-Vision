@@ -506,8 +506,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/Ysz2022/NeRCo
 
 **Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network**
-- Paper: 
-- Code: https://arxiv.org/abs/2308.08220
+- Paper:  https://arxiv.org/abs/2308.08220
 
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**
 - Paper: https://arxiv.org/abs/2308.13164
@@ -515,6 +514,21 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement**
 - Paper: https://arxiv.org/abs/2303.06705
 - Code: https://github.com/caiyuanhao1998/Retinexformer
+
+**Low-Light Image Enhancement with Multi-Stage Residue Quantization and Brightness-Aware Attention**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Low-Light_Image_Enhancement_with_Multi-Stage_Residue_Quantization_and_Brightness-Aware_Attention_ICCV_2023_paper.html
+
+**Dancing in the Dark: A Benchmark towards General Low-light Video Enhancement**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Fu_Dancing_in_the_Dark_A_Benchmark_towards_General_Low-light_Video_ICCV_2023_paper.html
+- Code: https://github.com/ciki000/DID
+
+**NIR-assisted Video Enhancement via Unpaired 24-hour Data**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Niu_NIR-assisted_Video_Enhancement_via_Unpaired_24-hour_Data_ICCV_2023_paper.html
+- Code: https://github.com/MyNiuuu/NVEU
+
+**Coherent Event Guided Low-Light Video Enhancement**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Liang_Coherent_Event_Guided_Low-Light_Video_Enhancement_ICCV_2023_paper.html
+- Code: https://github.com/sherrycattt/EvLowLight
 
 [[Back-to-Overview](#overview)]
 
