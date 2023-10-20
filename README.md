@@ -568,6 +568,8 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.06107
 - Code: https://github.com/humansensinglab/PATMAT
 
+## Video Inpainting
+
 **ProPainter: Improving Propagation and Transformer for Video Inpainting**
 - Paper: https://arxiv.org/abs/2309.03897
 - Code: https://github.com/sczhou/ProPainter
@@ -592,12 +594,38 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Image Compression
 
 **RFD-ECNet: Extreme Underwater Image Compression with Reference to Feature Dictionary**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Li_RFD-ECNet_Extreme_Underwater_Image_Compression_with_Reference_to_Feature_Dictionary_ICCV_2023_paper.html
 - Code: https://github.com/lilala0/RFD-ECNet
 
 **COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability**
 - Paper: https://arxiv.org/abs/2309.07926
- 
+- Code: https://github.com/ImJongminPark/COMPASS
+
+**Computationally-Efficient Neural Image Compression with Shallow Decoders**
+ - Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Computationally-Efficient_Neural_Image_Compression_with_Shallow_Decoders_ICCV_2023_paper.html
+ - Code: https://github.com/mandt-lab/shallow-ntc
+
+**Dec-Adapter: Exploring Efficient Decoder-Side Adapter for Bridging Screen Content and Natural Image Compression**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Shen_Dec-Adapter_Exploring_Efficient_Decoder-Side_Adapter_for_Bridging_Screen_Content_and_ICCV_2023_paper.html
+
+**Semantically Structured Image Compression via Irregular Group-Based Decoupling**
+- Paper: https://arxiv.org/abs/2305.02586
+
+**TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception**
+- Paper: https://arxiv.org/abs/2306.05085
+- Code: https://github.com/NYCU-MAPL/TransTIC
+
+**AdaNIC: Towards Practical Neural Image Compression via Dynamic Transform Routing**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Tao_AdaNIC_Towards_Practical_Neural_Image_Compression_via_Dynamic_Transform_Routing_ICCV_2023_paper.html
+
+**COOL-CHIC: Coordinate-based Low Complexity Hierarchical Image Codec**
+- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Ladune_COOL-CHIC_Coordinate-based_Low_Complexity_Hierarchical_Image_Codec_ICCV_2023_paper.html
+- Code: https://github.com/Orange-OpenSource/Cool-Chic
+
+## Video Compression
+
+**Scene Matters: Model-based Deep Video Compression**
+- Paper: https://arxiv.org/abs/2303.04557
 
 [[Back-to-Overview](#overview)]
 
