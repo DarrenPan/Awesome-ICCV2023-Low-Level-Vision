@@ -447,6 +447,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 # HDR Imaging / Multi-Exposure Image Fusion
 
+**Alignment-free HDR Deghosting with Semantics Consistent Transformer**
+- Paper: https://arxiv.org/abs/2305.18135
+- Code: https://github.com/Zongwei97/SCTNet
+
 **MEFLUT: Unsupervised 1D Lookup Tables for Multi-exposure Image Fusion**
 - Paper: https://arxiv.org/abs/2309.11847
 - Code: https://github.com/Hedlen/MEFLUT
@@ -464,6 +468,13 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Joint Demosaicing and Deghosting of Time-Varying Exposures for Single-Shot HDR Imaging**
 - Paper: https://vclab.kaist.ac.kr/iccv2023/iccv2023-single-shot-hdr-imaging.pdf
 - Code: https://github.com/KAIST-VCLAB/singshot-hdr-demosaicing
+
+**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**
+- Paper: https://arxiv.org/abs/2211.12352
+
+**Beyond the Pixel: a Photometrically Calibrated HDR Dataset for Luminance and Color Prediction**
+- Paper: https://arxiv.org/abs/2304.12372
+- Code: https://github.com/lvsn/beyondthepixel
 
 [[Back-to-Overview](#overview)]
 
