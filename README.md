@@ -632,11 +632,19 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Image Quality Assessment
 
 **Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks**
-- Paper:
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.html)
 - Code: https://github.com/woshidandan/Image-Color-Aesthetics-Assessment/tree/main
 
 **Test Time Adaptation for Blind Image Quality Assessment**
 - Paper: https://arxiv.org/abs/2307.14735
+
+**Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.html)
+- Code: https://github.com/oufuzhao/EQBM
+
+**SQAD: Automatic Smartphone Camera Quality Assessment and Benchmarking**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Fang_SQAD_Automatic_Smartphone_Camera_Quality_Assessment_and_Benchmarking_ICCV_2023_paper.html)
+- Code: https://github.com/aiff22/SQAD
 
 **Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives**
 - Paper https://arxiv.org/abs/2211.04894
