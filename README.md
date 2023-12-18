@@ -72,11 +72,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Diffusion
 
 **PIRNet: Privacy-Preserving Image Restoration Network via Wavelet Lifting**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Deng_PIRNet_Privacy-Preserving_Image_Restoration_Network_via_Wavelet_Lifting_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Deng_PIRNet_Privacy-Preserving_Image_Restoration_Network_via_Wavelet_Lifting_ICCV_2023_paper.html)
 - Code: https://github.com/gclonghorn/PIRNet
 
 **Focal Network for Image Restoration**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Cui_Focal_Network_for_Image_Restoration_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Cui_Focal_Network_for_Image_Restoration_ICCV_2023_paper.html)
 - Code: https://github.com/c-yn/FocalNet
 
 **Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**
@@ -88,16 +88,16 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Under-Display Camera
 
 **FSI: Frequency and Spatial Interactive Learning for Image Restoration in Under-Display Cameras**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_FSI_Frequency_and_Spatial_Interactive_Learning_for_Image_Restoration_in_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_FSI_Frequency_and_Spatial_Interactive_Learning_for_Image_Restoration_in_ICCV_2023_paper.html)
 - Tags: Under-Display Camera
 
 **Multi-weather Image Restoration via Domain Translation**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Patil_Multi-weather_Image_Restoration_via_Domain_Translation_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Patil_Multi-weather_Image_Restoration_via_Domain_Translation_ICCV_2023_paper.html)
 - Code: https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration
 - Tags: Multi-weather
 
 **Adverse Weather Removal with Codebook Priors**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html)
 - Tags: Adverse Weather Removal
 
 **Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond**
@@ -115,7 +115,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Document Shadow Removal
 
 **Boundary-Aware Divide and Conquer: A Diffusion-Based Solution for Unsupervised Shadow Removal**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Boundary-Aware_Divide_and_Conquer_A_Diffusion-Based_Solution_for_Unsupervised_Shadow_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Boundary-Aware_Divide_and_Conquer_A_Diffusion-Based_Solution_for_Unsupervised_Shadow_ICCV_2023_paper.html)
 - Tags: Shadow Removal
 
 **Leveraging Inpainting for Single-Image Shadow Removal**
@@ -132,7 +132,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Turbulence Image
 
 **Building Bridge Across the Time: Disruption and Restoration of Murals In the Wild**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Shao_Building_Bridge_Across_the_Time_Disruption_and_Restoration_of_Murals_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Shao_Building_Bridge_Across_the_Time_Disruption_and_Restoration_of_Murals_ICCV_2023_paper.html)
 - Code: https://github.com/Shaocr/Building-Bridge-Across-the-Time-Disruption-and-Restoration-of-Murals-In-the-Wild
 - Tags: Murals Restoration
 
@@ -142,10 +142,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Diffusion, Hyperspectral
 
 **Fingerprinting Deep Image Restoration Models**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Quan_Fingerprinting_Deep_Image_Restoration_Models_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Quan_Fingerprinting_Deep_Image_Restoration_Models_ICCV_2023_paper.html)
 
 **Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Varghese_Self-supervised_Monocular_Underwater_Depth_Recovery_Image_Restoration_and_a_Real-sea_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Varghese_Self-supervised_Monocular_Underwater_Depth_Recovery_Image_Restoration_and_a_Real-sea_ICCV_2023_paper.html)
 - Code: https://github.com/nishavarghese15/DRUVA
 
 ## Image Reconstruction
@@ -157,7 +157,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 ## Video Restoration
 
 **Snow Removal in Video: A New Dataset and A Novel Method**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Snow_Removal_in_Video_A_New_Dataset_and_A_Novel_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Snow_Removal_in_Video_A_New_Dataset_and_A_Novel_ICCV_2023_paper.html)
 - Code: https://github.com/haoyuc/VideoDesnowing
 - Tags: Desnowing
 
@@ -201,7 +201,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/zhengchen1999/DAT
 
 **MSRA-SR: Image Super-resolution Transformer with Multi-scale Shared Representation Acquisition**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_MSRA-SR_Image_Super-resolution_Transformer_with_Multi-scale_Shared_Representation_Acquisition_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_MSRA-SR_Image_Super-resolution_Transformer_with_Multi-scale_Shared_Representation_Acquisition_ICCV_2023_paper.html)
 
 **Content-Aware Local GAN for Photo-Realistic Super-Resolution**
 - Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Park_Content-Aware_Local_GAN_for_Photo-Realistic_Super-Resolution_ICCV_2023_paper.html
@@ -209,7 +209,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: GAN
 
 **Boosting Single Image Super-Resolution via Partial Channel Shifting**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Boosting_Single_Image_Super-Resolution_via_Partial_Channel_Shifting_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Boosting_Single_Image_Super-Resolution_via_Partial_Channel_Shifting_ICCV_2023_paper.html)
 - Code: https://github.com/OwXiaoM/_PCS
 
 **Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**
@@ -222,7 +222,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Efficient
 
 **Lightweight Image Super-Resolution with Superpixel Token Interaction**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Lightweight_Image_Super-Resolution_with_Superpixel_Token_Interaction_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Lightweight_Image_Super-Resolution_with_Superpixel_Token_Interaction_ICCV_2023_paper.html)
 - Code: https://github.com/ArcticHare105/SPIN
 - Tags: Lightweight
 
@@ -242,7 +242,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Blind
 
 **Learning Correction Filter via Degradation-Adaptive Regression for Blind Single Image Super-Resolution**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Learning_Correction_Filter_via_Degradation-Adaptive_Regression_for_Blind_Single_Image_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Learning_Correction_Filter_via_Degradation-Adaptive_Regression_for_Blind_Single_Image_ICCV_2023_paper.html)
 - Code: https://github.com/edbca/DARSR
 - Tags: Blind
 
@@ -266,7 +266,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Depth Map
 
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.html)
 - Tags: Hyperspectral, Diffusion
 
 **ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution**
@@ -275,11 +275,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Hyperspectral
 
 **Rethinking Multi-Contrast MRI Super-Resolution: Rectangle-Window Cross-Attention Transformer and Arbitrary-Scale Upsampling**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Li_Rethinking_Multi-Contrast_MRI_Super-Resolution_Rectangle-Window_Cross-Attention_Transformer_and_Arbitrary-Scale_Upsampling_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Rethinking_Multi-Contrast_MRI_Super-Resolution_Rectangle-Window_Cross-Attention_Transformer_and_Arbitrary-Scale_Upsampling_ICCV_2023_paper.html)
 - Tags: MRI
 
 **Decomposition-Based Variational Network for Multi-Contrast MRI Super-Resolution and Reconstruction**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Lei_Decomposition-Based_Variational_Network_for_Multi-Contrast_MRI_Super-Resolution_and_Reconstruction_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Lei_Decomposition-Based_Variational_Network_for_Multi-Contrast_MRI_Super-Resolution_and_Reconstruction_ICCV_2023_paper.html)
 - Code: https://github.com/lpcccc-cv/MC-VarNet
 - Tags: MRI
 
@@ -296,7 +296,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tag: Real-World
 
 **Self-Supervised Burst Super-Resolution**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Bhat_Self-Supervised_Burst_Super-Resolution_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Bhat_Self-Supervised_Burst_Super-Resolution_ICCV_2023_paper.html)
 - Tags: Self-Supervised
 
 ## Video Super Resolution
@@ -306,7 +306,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/researchmm/VQD-SR
 
 **Multi-Frequency Representation Enhancement with Privilege Information for Video Super-Resolution**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Li_Multi-Frequency_Representation_Enhancement_with_Privilege_Information_for_Video_Super-Resolution_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Multi-Frequency_Representation_Enhancement_with_Privilege_Information_for_Video_Super-Resolution_ICCV_2023_paper.html)
 
 ## Spatial-Temporal Video Super-Resolution
 
@@ -349,11 +349,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Tags: Self-supervised
 
 **Iterative Denoiser and Noise Estimator for Self-Supervised Image Denoising**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zou_Iterative_Denoiser_and_Noise_Estimator_for_Self-Supervised_Image_Denoising_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Zou_Iterative_Denoiser_and_Noise_Estimator_for_Self-Supervised_Image_Denoising_ICCV_2023_paper.html)
 - Tags: Self-Supervised
 
 **Noise2Info: Noisy Image to Information of Noise for Self-Supervised Image Denoising**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Noise2Info_Noisy_Image_to_Information_of_Noise_for_Self-Supervised_Image_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Noise2Info_Noisy_Image_to_Information_of_Noise_for_Self-Supervised_Image_ICCV_2023_paper.html)
 - Tags: Self-Supervised
 
 **The Devil is in the Upsampling: Architectural Decisions Made Simpler for Denoising with Deep Image Prior**
@@ -387,16 +387,16 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2212.01789
  
 **Multi-Scale Residual Low-Pass Filter Network for Image Deblurring**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Dong_Multi-Scale_Residual_Low-Pass_Filter_Network_for_Image_Deblurring_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Dong_Multi-Scale_Residual_Low-Pass_Filter_Network_for_Image_Deblurring_ICCV_2023_paper.html)
 
 **Single Image Defocus Deblurring via Implicit Neural Inverse Kernels**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Quan_Single_Image_Defocus_Deblurring_via_Implicit_Neural_Inverse_Kernels_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Quan_Single_Image_Defocus_Deblurring_via_Implicit_Neural_Inverse_Kernels_ICCV_2023_paper.html)
 
 **Single Image Deblurring with Row-dependent Blur Magnitude**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Single_Image_Deblurring_with_Row-dependent_Blur_Magnitude_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Single_Image_Deblurring_with_Row-dependent_Blur_Magnitude_ICCV_2023_paper.html)
 
 **Non-Coaxial Event-Guided Motion Deblurring with Spatial Alignment**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Cho_Non-Coaxial_Event-Guided_Motion_Deblurring_with_Spatial_Alignment_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Cho_Non-Coaxial_Event-Guided_Motion_Deblurring_with_Spatial_Alignment_ICCV_2023_paper.html)
 - Tags: Event-Based
 
 **Generalizing Event-Based Motion Deblurring in Real-World Scenarios**
@@ -407,7 +407,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 ## Video Deblurring
 
 **Exploring Temporal Frequency Spectrum in Deep Video Deblurring**
-- Paper：https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_Exploring_Temporal_Frequency_Spectrum_in_Deep_Video_Deblurring_ICCV_2023_paper.html
+- Paper：[ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_Exploring_Temporal_Frequency_Spectrum_in_Deep_Video_Deblurring_ICCV_2023_paper.html)
 
 [[Back-to-Overview](#overview)]
 
@@ -418,7 +418,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/yunguo224/LHP-Rain
 
 **Learning Rain Location Prior for Nighttime Deraining**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Learning_Rain_Location_Prior_for_Nighttime_Deraining_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Learning_Rain_Location_Prior_for_Nighttime_Deraining_ICCV_2023_paper.html)
 - Code: https://github.com/zkawfanx/RLP
 
 **Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks**
@@ -426,7 +426,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/Ephemeral182/UDR-S2Former_deraining
 
 **Unsupervised Video Deraining with An Event Camera**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Unsupervised_Video_Deraining_with_An_Event_Camera_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Unsupervised_Video_Deraining_with_An_Event_Camera_ICCV_2023_paper.html)
 
 [[Back-to-Overview](#overview)]
 
@@ -481,11 +481,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Frame Interpolation
 
 **Video Object Segmentation-aware Video Frame Interpolation**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Yoo_Video_Object_Segmentation-aware_Video_Frame_Interpolation_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Yoo_Video_Object_Segmentation-aware_Video_Frame_Interpolation_ICCV_2023_paper.html)
 - Code: https://github.com/junsang7777/VOS-VFI
 
 **Rethinking Video Frame Interpolation from Shutter Mode Induced Degradation**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Rethinking_Video_Frame_Interpolation_from_Shutter_Mode_Induced_Degradation_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Rethinking_Video_Frame_Interpolation_from_Shutter_Mode_Induced_Degradation_ICCV_2023_paper.html)
 
 [[Back-to-Overview](#overview)]
 
@@ -516,18 +516,18 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/caiyuanhao1998/Retinexformer
 
 **Low-Light Image Enhancement with Multi-Stage Residue Quantization and Brightness-Aware Attention**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Low-Light_Image_Enhancement_with_Multi-Stage_Residue_Quantization_and_Brightness-Aware_Attention_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Low-Light_Image_Enhancement_with_Multi-Stage_Residue_Quantization_and_Brightness-Aware_Attention_ICCV_2023_paper.html)
 
 **Dancing in the Dark: A Benchmark towards General Low-light Video Enhancement**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Fu_Dancing_in_the_Dark_A_Benchmark_towards_General_Low-light_Video_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Fu_Dancing_in_the_Dark_A_Benchmark_towards_General_Low-light_Video_ICCV_2023_paper.html)
 - Code: https://github.com/ciki000/DID
 
 **NIR-assisted Video Enhancement via Unpaired 24-hour Data**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Niu_NIR-assisted_Video_Enhancement_via_Unpaired_24-hour_Data_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Niu_NIR-assisted_Video_Enhancement_via_Unpaired_24-hour_Data_ICCV_2023_paper.html)
 - Code: https://github.com/MyNiuuu/NVEU
 
 **Coherent Event Guided Low-Light Video Enhancement**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Liang_Coherent_Event_Guided_Low-Light_Video_Enhancement_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Liang_Coherent_Event_Guided_Low-Light_Video_Enhancement_ICCV_2023_paper.html)
 - Code: https://github.com/sherrycattt/EvLowLight
 
 [[Back-to-Overview](#overview)]
@@ -554,14 +554,14 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2307.15033
 
 **Rethinking Fast Fourier Convolution in Image Inpainting**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Chu_Rethinking_Fast_Fourier_Convolution_in_Image_Inpainting_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Chu_Rethinking_Fast_Fourier_Convolution_in_Image_Inpainting_ICCV_2023_paper.html)
 
 **Continuously Masked Transformer for Image Inpainting**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Ko_Continuously_Masked_Transformer_for_Image_Inpainting_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Ko_Continuously_Masked_Transformer_for_Image_Inpainting_ICCV_2023_paper.html)
 - Code: https://github.com/keunsoo-ko/CMT
 
 **MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Sargsyan_MI-GAN_A_Simple_Baseline_for_Image_Inpainting_on_Mobile_Devices_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Sargsyan_MI-GAN_A_Simple_Baseline_for_Image_Inpainting_on_Mobile_Devices_ICCV_2023_paper.html)
 - Code: https://github.com/Picsart-AI-Research/MI-GAN
 
 **PATMAT: Person Aware Tuning of Mask-Aware Transformer for Face Inpainting**
@@ -575,10 +575,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/sczhou/ProPainter
 
 **Semantic-Aware Dynamic Parameter for Video Inpainting Transformer**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Lee_Semantic-Aware_Dynamic_Parameter_for_Video_Inpainting_Transformer_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_Semantic-Aware_Dynamic_Parameter_for_Video_Inpainting_Transformer_ICCV_2023_paper.html)
 
 **CIRI: Curricular Inactivation for Residue-aware One-shot Video Inpainting**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Zheng_CIRI_Curricular_Inactivation_for_Residue-aware_One-shot_Video_Inpainting_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Zheng_CIRI_Curricular_Inactivation_for_Residue-aware_One-shot_Video_Inpainting_ICCV_2023_paper.html)
 - Code: https://github.com/Arise-zwy/CIRI
 
 [[Back-to-Overview](#overview)]
@@ -594,7 +594,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Image Compression
 
 **RFD-ECNet: Extreme Underwater Image Compression with Reference to Feature Dictionary**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Li_RFD-ECNet_Extreme_Underwater_Image_Compression_with_Reference_to_Feature_Dictionary_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Li_RFD-ECNet_Extreme_Underwater_Image_Compression_with_Reference_to_Feature_Dictionary_ICCV_2023_paper.html)
 - Code: https://github.com/lilala0/RFD-ECNet
 
 **COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability**
@@ -602,11 +602,11 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/ImJongminPark/COMPASS
 
 **Computationally-Efficient Neural Image Compression with Shallow Decoders**
- - Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Computationally-Efficient_Neural_Image_Compression_with_Shallow_Decoders_ICCV_2023_paper.html
+ - Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Computationally-Efficient_Neural_Image_Compression_with_Shallow_Decoders_ICCV_2023_paper.html)
  - Code: https://github.com/mandt-lab/shallow-ntc
 
 **Dec-Adapter: Exploring Efficient Decoder-Side Adapter for Bridging Screen Content and Natural Image Compression**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Shen_Dec-Adapter_Exploring_Efficient_Decoder-Side_Adapter_for_Bridging_Screen_Content_and_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Shen_Dec-Adapter_Exploring_Efficient_Decoder-Side_Adapter_for_Bridging_Screen_Content_and_ICCV_2023_paper.html)
 
 **Semantically Structured Image Compression via Irregular Group-Based Decoupling**
 - Paper: https://arxiv.org/abs/2305.02586
@@ -616,10 +616,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/NYCU-MAPL/TransTIC
 
 **AdaNIC: Towards Practical Neural Image Compression via Dynamic Transform Routing**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Tao_AdaNIC_Towards_Practical_Neural_Image_Compression_via_Dynamic_Transform_Routing_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Tao_AdaNIC_Towards_Practical_Neural_Image_Compression_via_Dynamic_Transform_Routing_ICCV_2023_paper.html)
 
 **COOL-CHIC: Coordinate-based Low Complexity Hierarchical Image Codec**
-- Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Ladune_COOL-CHIC_Coordinate-based_Low_Complexity_Hierarchical_Image_Codec_ICCV_2023_paper.html
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Ladune_COOL-CHIC_Coordinate-based_Low_Complexity_Hierarchical_Image_Codec_ICCV_2023_paper.html)
 - Code: https://github.com/Orange-OpenSource/Cool-Chic
 
 ## Video Compression
@@ -663,7 +663,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/NevSNev/UniST
 
 **All-to-key Attention for Arbitrary Style Transfer**
-- Paper:
+- Paper: https://arxiv.org/abs/2212.04105
 - Code: https://github.com/LearningHx/StyA2K
 
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**
@@ -672,6 +672,13 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**
 - Paper: https://arxiv.org/abs/2303.09268
 - Code: https://github.com/zipengxuc/StylerDALLE
+
+**Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer**
+- Paper: https://arxiv.org/abs/2303.08622
+- Code(unofficial): https://github.com/ouhenio/text-guided-diffusion-style-transfer
+
+**HairNeRF: Geometry-Aware Image Synthesis for Hairstyle Transfer**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Chang_HairNeRF_Geometry-Aware_Image_Synthesis_for_Hairstyle_Transfer_ICCV_2023_paper.html)
 
 [[Back-to-Overview](#overview)]
 
