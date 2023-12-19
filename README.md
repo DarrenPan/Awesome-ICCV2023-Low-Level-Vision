@@ -701,7 +701,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/AndysonYs/Selective-Diffusion-Distillation
 
 **HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending**
-- Paper: 
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_HairCLIPv2_Unifying_Hair_Editing_via_Proxy_Feature_Blending_ICCV_2023_paper.html)
 - Code: https://github.com/wty-ustc/HairCLIPv2
 
 **StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces**
@@ -713,6 +713,41 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 **Effective Real Image Editing with Accelerated Iterative Diffusion Inversion**
 - Paper: https://arxiv.org/abs/2309.04907
+
+**Conceptual and Hierarchical Latent Space Decomposition for Face Editing**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Ozkan_Conceptual_and_Hierarchical_Latent_Space_Decomposition_for_Face_Editing_ICCV_2023_paper.html)
+
+**Editing Implicit Assumptions in Text-to-Image Diffusion Models**
+- Paper: https://arxiv.org/abs/2303.08084
+- Code: https://github.com/bahjat-kawar/time-diffusion
+
+**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**
+- Paper: https://arxiv.org/abs/2305.04441
+
+**A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.html)
+
+## Video Editing
+
+**RIGID: Recurrent GAN Inversion and Editing of Real Face Videos**
+- Paper: https://arxiv.org/abs/2308.06097
+- Code: https://github.com/cnnlstm/RIGID
+
+**Pix2Video: Video Editing using Image Diffusion**
+- Paper: https://arxiv.org/abs/2303.12688
+- Code: https://github.com/duyguceylan/pix2video
+
+**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**
+- Paper: https://arxiv.org/abs/2303.09535
+- Code: https://github.com/ChenyangQiQi/FateZero
+
+**StableVideo: Text-driven Consistency-aware Diffusion Video Editing**
+- Paper: https://arxiv.org/abs/2308.09592
+- Code: https://github.com/rese1f/StableVideo
+
+**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**
+- Paper: https://arxiv.org/abs/2304.06020
+- Code: https://github.com/MoayedHajiAli/VidStyleODE-official
 
 [[Back-to-Overview](#overview)]
 
@@ -842,17 +877,6 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**
 - Paper: https://arxiv.org/abs/2303.13439
 - Code: https://github.com/Picsart-AI-Research/Text2Video-Zero
-
-**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**
-- Paper: https://arxiv.org/abs/2303.09535
-- Code: https://github.com/ChenyangQiQi/FateZero
-
-**RIGID: Recurrent GAN Inversion and Editing of Real Face Videos**
-- Paper: https://arxiv.org/abs/2308.06097
-
-**StableVideo: Text-driven Consistency-aware Diffusion Video Editing**
-- Paper: https://arxiv.org/abs/2308.09592
-- Code: https://github.com/rese1f/StableVideo
 
 **StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**
 - Paper: https://arxiv.org/abs/2308.16909
