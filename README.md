@@ -66,6 +66,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 # Image Restoration
 
+**SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-time Performance on Mobile Device**
+- Paper: https://arxiv.org/abs/2308.08137
+- Code: https://github.com/sanechips-multimedia/syenet
+
 **DiffIR: Efficient Diffusion Model for Image Restoration**
 - Paper: https://arxiv.org/abs/2303.09472
 - Code: https://github.com/Zj-BinXia/DiffIR
@@ -762,10 +766,6 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2302.13848
 - Code: https://github.com/csyxwei/ELITE
 
-**Better Aligning Text-to-Image Models with Human Preference**
-- Paper: https://arxiv.org/abs/2303.14420
-- Code: https://github.com/tgxs002/align_sd
-
 **Unleashing Text-to-Image Diffusion Models for Visual Perception**
 - Paper: https://arxiv.org/abs/2303.02153
 - Code: https://github.com/wl-zhao/VPD
@@ -804,6 +804,25 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2309.05569
 - Project: https://czhang0528.github.io/iti-gen
 
+**Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis**
+- Paper: https://arxiv.org/abs/2211.02408
+
+**Text-Conditioned Sampling Framework for Text-to-Image Generation with Masked Generative Models**
+- Paper: https://arxiv.org/abs/2304.01515
+
+**Human Preference Score: Better Aligning Text-to-Image Models with Human Preference**
+- Paper: https://arxiv.org/abs/2303.14420
+- Code: https://github.com/tgxs002/align_sd
+
+**Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis**
+- Paper: https://arxiv.org/abs/2308.08157
+- Code: https://github.com/pmh9960/GCDP/
+
+**Zero-shot spatial layout conditioning for text-to-image diffusion models**
+- Paper: https://arxiv.org/abs/2306.13754
+
+**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Agarwal_A-STAR_Test-time_Attention_Segregation_and_Retention_for_Text-to-image_Synthesis_ICCV_2023_paper.html)
 
 ## Image-to-Image / Image Guided
 
