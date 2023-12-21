@@ -758,6 +758,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 # Image Generation/Synthesis / Image-to-Image Translation
 ## Text-to-Image / Text Guided / Multi-Modal
 
+**Adding Conditional Control to Text-to-Image Diffusion Models**
+- Paper: https://arxiv.org/abs/2302.05543
+- Code: https://github.com/lllyasviel/ControlNet
+
 **MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models**
 - Paper: https://arxiv.org/abs/2303.13126
 - Code: https://github.com/MagicFusion/MagicFusion.github.io
@@ -823,6 +827,37 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 **A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis**
 - Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Agarwal_A-STAR_Test-time_Attention_Segregation_and_Retention_for_Text-to-image_Synthesis_ICCV_2023_paper.html)
+
+**Evaluating Data Attribution for Text-to-Image Models**
+- Paper: https://arxiv.org/abs/2306.09345
+- Code: https://github.com/PeterWang512/GenDataAttribution
+
+**Expressive Text-to-Image Generation with Rich Text**
+- Paper: https://arxiv.org/abs/2304.06720
+- Code: https://github.com/SongweiGe/rich-text-to-image
+
+**Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis**
+- Paper: https://arxiv.org/abs/2304.03869
+- Code: https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn
+
+**Localizing Object-level Shape Variations with Text-to-Image Diffusion Models**
+- Paper: https://arxiv.org/abs/2303.11306
+- Code: https://github.com/orpatashnik/local-prompt-mixing
+
+**DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Cho_DALL-Eval_Probing_the_Reasoning_Skills_and_Social_Biases_of_Text-to-Image_ICCV_2023_paper.html)
+
+**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**
+- Paper: https://arxiv.org/abs/2304.05390
+- Code: https://github.com/eslambakr/HRS_benchmark
+
+**Anti-DreamBooth: Protecting Users from Personalized Text-to-image Synthesis**
+- Paper: https://arxiv.org/abs/2303.15433
+- Code: https://github.com/VinAIResearch/Anti-DreamBooth
+
+**Discriminative Class Tokens for Text-to-Image Diffusion Models**
+- Paper: https://arxiv.org/abs/2303.17155
+- Code: https://github.com/idansc/discriminative_class_tokens
 
 ## Image-to-Image / Image Guided
 
