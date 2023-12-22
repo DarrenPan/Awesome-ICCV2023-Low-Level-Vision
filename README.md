@@ -432,6 +432,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Unsupervised Video Deraining with An Event Camera**
 - Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Unsupervised_Video_Deraining_with_An_Event_Camera_ICCV_2023_paper.html)
 
+**Both Diverse and Realism Matter: Physical Attribute and Style Alignment for Rainy Image Generation**
+ - Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Yu_Both_Diverse_and_Realism_Matter_Physical_Attribute_and_Style_Alignment_ICCV_2023_paper.html)
+
 [[Back-to-Overview](#overview)]
 
 # Dehazing
@@ -730,6 +733,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 **A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance**
 - Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.html)
+- Code: https://github.com/ChenWu98/cycle-diffusion
 
 ## Video Editing
 
@@ -859,6 +863,10 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.17155
 - Code: https://github.com/idansc/discriminative_class_tokens
 
+**GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation**
+- Paper: GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation
+- Code: https://github.com/salesforce/GlueGen
+
 ## Image-to-Image / Image Guided
 
 **Reinforced Disentanglement for Face Swapping without Skip Connection**
@@ -879,9 +887,8 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.12968
 - Code: https://github.com/Yuxinn-J/Scenimefy
 
-**A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance**
-- Paper: https://arxiv.org/abs/2210.05559
-- Code: https://github.com/ChenWu98/cycle-diffusion
+**UGC: Unified GAN Compression for Efficient Image-to-Image Translation**
+- Paper: https://arxiv.org/abs/2309.09310
 
 ## Others for image generation
 
@@ -897,7 +904,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/Xiuyu-Li/q-diffusion
 
 **The Euclidean Space is Evil: Hyperbolic Attribute Editing for Few-shot Image Generation**
-- Paper:
+- Paper: https://arxiv.org/abs/2211.12347
 - Code: https://github.com/lingxiao-li/HAE
 
 **LFS-GAN: Lifelong Few-Shot Image Generation**
@@ -917,6 +924,24 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation**
 - Paper: https://arxiv.org/abs/2309.14335
 - Code: https://github.com/UnitedHuman/UnitedHuman
+
+**Ray Conditioning: Trading Photo-consistency for Photo-realism in Multi-view Image Generation**
+- Paper: https://arxiv.org/abs/2304.13681
+- Code: https://github.com/echen01/ray-conditioning
+
+**Personalized Image Generation for Color Vision Deficiency Population**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html)
+
+**EGC: Image Generation and Classification via a Diffusion Energy-Based Model**
+- Paper: https://arxiv.org/abs/2304.02012
+- Code: https://github.com/guoqiushan/egc
+
+**Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Cao_Efficient-VQGAN_Towards_High-Resolution_Image_Generation_with_Efficient_Vision_Transformers_ICCV_2023_paper.html)
+
+**Neural Characteristic Function Learning for Conditional Image Generation**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Neural_Characteristic_Function_Learning_for_Conditional_Image_Generation_ICCV_2023_paper.html)
+- Code: https://github.com/zhangjialu126/ccf_gan
 
 ## Video Generation
 
