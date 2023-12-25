@@ -864,7 +864,7 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Code: https://github.com/idansc/discriminative_class_tokens
 
 **GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation**
-- Paper: GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation
+- Paper: https://arxiv.org/abs/2303.10056
 - Code: https://github.com/salesforce/GlueGen
 
 ## Image-to-Image / Image Guided
@@ -889,6 +889,13 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 
 **UGC: Unified GAN Compression for Efficient Image-to-Image Translation**
 - Paper: https://arxiv.org/abs/2309.09310
+
+**Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis**
+- Paper: https://arxiv.org/abs/2310.00224
+
+**Controllable Person Image Synthesis with Pose-Constrained Latent Diffusion**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Han_Controllable_Person_Image_Synthesis_with_Pose-Constrained_Latent_Diffusion_ICCV_2023_paper.html)
+- Code: https://github.com/BrandonHanx/PoCoLD
 
 ## Others for image generation
 
@@ -942,6 +949,15 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **Neural Characteristic Function Learning for Conditional Image Generation**
 - Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Neural_Characteristic_Function_Learning_for_Conditional_Image_Generation_ICCV_2023_paper.html)
 - Code: https://github.com/zhangjialu126/ccf_gan
+
+**LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis**
+- Paper: https://arxiv.org/abs/2301.04604
+- Code: https://github.com/zhujiapeng/linkgan
+
+**Perceptual Artifacts Localization for Image Synthesis Tasks**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Perceptual_Artifacts_Localization_for_Image_Synthesis_Tasks_ICCV_2023_paper.html)
+- Code: https://github.com/owenzlz/PAL4VST
+
 
 ## Video Generation
 
