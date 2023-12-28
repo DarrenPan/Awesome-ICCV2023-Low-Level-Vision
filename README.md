@@ -735,6 +735,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.html)
 - Code: https://github.com/ChenWu98/cycle-diffusion
 
+**Out-of-domain GAN inversion via Invertibility Decomposition for Photo-Realistic Human Face Manipulation**
+- Paper: https://arxiv.org/abs/2212.09262
+
 ## Video Editing
 
 **RIGID: Recurrent GAN Inversion and Editing of Real Face Videos**
@@ -981,9 +984,40 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2309.04509
 - Project: https://ku-vai.github.io/TPoS/
 
+**SIDGAN: High-Resolution Dubbed Video Generation via Shift-Invariant Learning**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Muaz_SIDGAN_High-Resolution_Dubbed_Video_Generation_via_Shift-Invariant_Learning_ICCV_2023_paper.html)
+
+**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**
+- Paper: https://arxiv.org/abs/2212.11565
+- Code: https://github.com/showlab/Tune-A-Video
+
+**Text2Performer: Text-Driven Human Video Generation**
+- Paper: https://arxiv.org/abs/2304.08483
+- Code: https://github.com/yumingj/Text2Performer
+
+**StyleLipSync: Style-based Personalized Lip-sync Video Generation**
+- Paper: https://arxiv.org/abs/2305.00521
+- Project: https://stylelipsync.github.io/ 
+
+**Mixed Neural Voxels for Fast Multi-view Video Synthesis**
+- Paper: https://arxiv.org/abs/2212.00190
+- Code: https://github.com/fengres/mixvoxels
+
+**WALDO: Future Video Synthesis using Object Layer Decomposition and Parametric Flow Prediction**
+- Paper: https://arxiv.org/abs/2211.14308
+- Code: https://github.com/16lemoing/waldo
+
+**DreamPose: Fashion Video Synthesis with Stable Diffusion**
+- Paper: https://arxiv.org/abs/2304.06025
+- Code: https://github.com/johannakarras/DreamPose
+
+**Structure and Content-Guided Video Synthesis with Diffusion Models**
+- Paper: https://arxiv.org/abs/2302.03011
+- Project: https://research.runwayml.com/gen1
+
 [[Back-to-Overview](#overview)]
 
-## Others [[back](#catalogue)]
+# Others [[back](#catalogue)]
 
 **DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**
 - Paper: https://arxiv.org/abs/2212.11613
