@@ -961,6 +961,29 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Perceptual_Artifacts_Localization_for_Image_Synthesis_Tasks_ICCV_2023_paper.html)
 - Code: https://github.com/owenzlz/PAL4VST
 
+**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning**
+- Paper: https://arxiv.org/abs/2303.11305
+- Code: https://github.com/mkshing/svdiff-pytorch
+
+**Erasing Concepts from Diffusion Models**
+- Paper: https://arxiv.org/abs/2303.07345
+- Code: https://github.com/rohitgandikota/erasing
+
+**A Complete Recipe for Diffusion Generative Models**
+- Paper: [ICCV Open Access Version](https://openaccess.thecvf.com/content/ICCV2023/html/Pandey_A_Complete_Recipe_for_Diffusion_Generative_Models_ICCV_2023_paper.html)
+- Code: https://github.com/mandt-lab/PSLD
+
+**Efficient Diffusion Training via Min-SNR Weighting Strategy**
+- Paper: https://arxiv.org/abs/2303.09556
+- Code: https://github.com/TiankaiHang/Min-SNR-Diffusion-Training
+
+**Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption**
+- Paper: https://arxiv.org/abs/2309.03729
+- Code: https://github.com/sjtuplayer/few-shot-diffusion 
+
+**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**
+- Paper: https://arxiv.org/abs/2309.10438
+- Code: https://github.com/lilijiangg/AutoDiffusion
 
 ## Video Generation
 
